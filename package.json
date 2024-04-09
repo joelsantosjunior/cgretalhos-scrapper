@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "collect": "node ./src/write-text-file.js --start 2024/01 --end 2024/02",
-    "parse-to-json": "node ./src/parse-to-json.js"
+    "parse": "node ./src/parse-to-json.js"
   },
   "keywords": [],
   "author": "",

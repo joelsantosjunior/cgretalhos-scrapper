@@ -4,8 +4,10 @@ import { Readable } from 'stream';
 import { createWriteStream } from 'fs';
 
 async function parseToHtml(filePath) {
-    const fileContent = await readFile(filePath, 'utf-8');
-    const $ = load(fileContent);
+    const fileContent = await readFile(filePath, 'utf8');
+
+    const $ = load(fileContent, { xmlMode: false });
+
     return $;
 }
 
@@ -13,7 +15,6 @@ async function getPosts(fileName) {
     const $ = await parseToHtml(fileName);
 
     // Some clean up
-    $('script').remove();
     $('.post-meta').remove();
     $('.blog-pager').remove();
     $('.footer-wrapper').remove();
@@ -23,10 +24,18 @@ async function getPosts(fileName) {
 }
 
 function mapPost($, post) {
-    const title = $(post).find('.title').text().trim();
-                
-    const content = $(post).remove('.title').text().trim()
+    const [_, publish_date] = $('.post-date', post).html().match(/var timestamp = "(.*?)";/);
+    
+    // It removes all <script> tags from the post
+    $('script', post).remove();
+
+    const title = $('.title', post).text().trim();
+
+    const orignal_url = $('.title > h4 > a', post).attr('href');
+
+    const content = $(post).remove('script').text().trim()
         .replace(/\n/g, '')
+        .replace(title, '')
         .replace(/fullpost{display:none;}/g, ' ')
 
     const images = [];
@@ -52,6 +61,8 @@ function mapPost($, post) {
         content,
         images,
         videos,
+        orignal_url,
+        publish_date,
     };
 
     return postData;
@@ -68,7 +79,7 @@ function generatePostStream({ fileName }) {
                 let dataString = JSON.stringify(postData)
     
                 if (index === 0) {
-                    dataString = `[${dataString},`
+                    dataString = `[${dataString}${posts.length > 1 ? "," : "]"}`
                 }
     
                 else if (index < posts.length - 1) {
