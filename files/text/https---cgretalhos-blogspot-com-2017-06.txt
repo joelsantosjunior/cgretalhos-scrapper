@@ -1,0 +1,4810 @@
+<!DOCTYPE html>
+<html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/55013136-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<meta content='z08IwZs2rKnZkwpjKx358HMn2ez9A2OIIEImch5j3Gs' name='google-site-verification'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://cgretalhos.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://cgretalhos.blogspot.com/2017/06/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Retalhos Históricos de Campina Grande - Atom" href="https://cgretalhos.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Retalhos Históricos de Campina Grande - RSS" href="https://cgretalhos.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Retalhos Históricos de Campina Grande - Atom" href="https://www.blogger.com/feeds/2592931059274708515/posts/default" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='http://cgretalhos.blogspot.com/2017/06/' property='og:url'/>
+<meta content='Retalhos Históricos de Campina Grande' property='og:title'/>
+<meta content='' property='og:description'/>
+<title>Retalhos Históricos de Campina Grande: junho 2017</title>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Minima Black
+Designer: Douglas Bowman
+URL:      www.stopdesign.com
+Date:     26 Feb 2004
+Updated by: Blogger Team
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="bgcolor" description="Page Background Color"
+type="color" default="#000">
+<Variable name="textcolor" description="Text Color"
+type="color" default="#ccc">
+<Variable name="linkcolor" description="Link Color"
+type="color" default="#9ad">
+<Variable name="pagetitlecolor" description="Blog Title Color"
+type="color" default="#ccc">
+<Variable name="descriptioncolor" description="Blog Description Color"
+type="color" default="#777">
+<Variable name="titlecolor" description="Post Title Color"
+type="color" default="#ad9">
+<Variable name="bordercolor" description="Border Color"
+type="color" default="#333">
+<Variable name="sidebarcolor" description="Sidebar Title Color"
+type="color" default="#777">
+<Variable name="sidebartextcolor" description="Sidebar Text Color"
+type="color" default="#999">
+<Variable name="visitedlinkcolor" description="Visited Link Color"
+type="color" default="#a7a">
+<Variable name="bodyfont" description="Text Font"
+type="font" default="normal normal 100% 'Trebuchet MS',Trebuchet,Verdana,Sans-serif">
+<Variable name="headerfont" description="Sidebar Title Font"
+type="font"
+default="normal bold 78% 'Trebuchet MS',Trebuchet,Arial,Verdana,Sans-serif">
+<Variable name="pagetitlefont" description="Blog Title Font"
+type="font"
+default="normal bold 200% 'Trebuchet MS',Trebuchet,Verdana,Sans-serif">
+<Variable name="descriptionfont" description="Blog Description Font"
+type="font"
+default="normal normal 78% 'Trebuchet MS', Trebuchet, Verdana, Sans-serif">
+<Variable name="postfooterfont" description="Post Footer Font"
+type="font"
+default="normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif">
+<Variable name="startSide" description="Start side in blog language"
+type="automatic" default="left">
+<Variable name="endSide" description="End side in blog language"
+type="automatic" default="right">
+*/
+/* Use this with templates/template-twocol.html */
+body {
+background:#000000; url('//3.bp.blogspot.com/_PsKtPH1i3UA/Sy94NlEjw1I/AAAAAAAAACg/LsmXJiehbnI/marino_02_fondo.jpg') repeat top center;
+margin:0;
+color:#cccccc;
+font: x-small "Trebuchet MS", Trebuchet, Verdana, Sans-serif;
+font-size/* */:/**/small;
+font-size: /**/small;
+text-align: center;
+}
+a:link {
+color:#99aadd;
+text-decoration:none;
+}
+a:visited {
+color:#aa77aa;
+text-decoration:none;
+}
+a:hover {
+color:#aadd99;
+text-decoration:underline;
+}
+a img {
+border-width:0;
+}
+/* Header
+-----------------------------------------------
+*/
+#header-wrapper {
+width:1000px;
+margin:0 auto 10px;
+border:0px solid #333333;
+}
+#header-inner {
+background-position: center;
+margin-left: auto;
+margin-right: auto;
+}
+#header {
+margin: 5px;
+border: 1px solid #333333;
+text-align: center;
+color:#cccccc;
+}
+#header h1 {
+margin:5px 5px 0;
+padding:15px 20px .25em;
+line-height:1.2em;
+text-transform:uppercase;
+letter-spacing:.2em;
+font: normal bold 200% 'Trebuchet MS',Trebuchet,Verdana,Sans-serif;
+}
+#header a {
+color:#cccccc;
+text-decoration:none;
+}
+#header a:hover {
+color:#cccccc;
+}
+#header .description {
+margin:0 0px 5px;
+padding:0 20px 15px;
+max-width:700px;
+text-transform:uppercase;
+letter-spacing:.2em;
+line-height: 1.4em;
+font: normal normal 78% 'Trebuchet MS', Trebuchet, Verdana, Sans-serif;
+color: #777777;
+}
+#header img {
+margin-left: auto;
+margin-right: auto;
+}
+/* Outer-Wrapper
+----------------------------------------------- */
+#outer-wrapper {
+width: -900px;
+margin:0 auto;
+padding:20px;
+text-align:left;
+font: normal normal 100% 'Trebuchet MS',Trebuchet,Verdana,Sans-serif;
+}
+#main-wrapper {
+width: 680px;
+float: left;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+#sidebar-wrapper {
+margin-right: 0px;
+width: 250px;
+float: right;
+word-wrap: break-word; /* fix for long text breaking sidebar float in IE */
+overflow: hidden;     /* fix for long non-text content breaking IE sidebar float */
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+margin:1.5em 0 .75em;
+font:normal bold 78% 'Trebuchet MS',Trebuchet,Arial,Verdana,Sans-serif;
+line-height: 1.4em;
+text-transform:uppercase;
+letter-spacing:.2em;
+color:#777777;
+}
+/* Posts
+-----------------------------------------------
+*/
+h2.date-header {
+margin:1.5em 0 .5em;
+}
+.post {
+margin:.5em 0 1.5em;
+border-bottom:1px dotted #333333;
+padding-bottom:1.5em;
+}
+.post h3 {
+margin:.25em 0 0;
+padding:0 0 4px;
+font-size:140%;
+font-weight:normal;
+line-height:1.4em;
+color:#aadd99;
+}
+.post h3 a, .post h3 a:visited, .post h3 strong {
+display:block;
+text-decoration:none;
+color:#aadd99;
+font-weight:bold;
+}
+.post h3 strong, .post h3 a:hover {
+color:#cccccc;
+}
+.post-body {
+margin:0 0 .75em;
+line-height:1.6em;
+}
+.post-body blockquote {
+line-height:1.3em;
+}
+.post-footer {
+margin: .75em 0;
+color:#777777;
+text-transform:uppercase;
+letter-spacing:.1em;
+font: normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif;
+line-height: 1.4em;
+}
+.comment-link {
+margin-left:.6em;
+}
+.post img {
+padding:4px;
+border:1px solid #333333;
+}
+.post blockquote {
+margin:1em 20px;
+}
+.post blockquote p {
+margin:.75em 0;
+}
+/* Comments
+----------------------------------------------- */
+#comments h4 {
+margin:1em 0;
+font-weight: bold;
+line-height: 1.4em;
+text-transform:uppercase;
+letter-spacing:.2em;
+color: #777777;
+}
+#comments-block {
+margin:1em 0 1.5em;
+line-height:1.6em;
+}
+#comments-block .comment-author {
+margin:.5em 0;
+}
+#comments-block .comment-body {
+margin:.25em 0 0;
+}
+#comments-block .comment-footer {
+margin:-.25em 0 2em;
+line-height: 1.4em;
+text-transform:uppercase;
+letter-spacing:.1em;
+}
+#comments-block .comment-body p {
+margin:0 0 .75em;
+}
+.deleted-comment {
+font-style:italic;
+color:gray;
+}
+.feed-links {
+clear: both;
+line-height: 2.5em;
+}
+#blog-pager-newer-link {
+float: left;
+}
+#blog-pager-older-link {
+float: right;
+}
+#blog-pager {
+text-align: center;
+}
+/* Sidebar Content
+----------------------------------------------- */
+.sidebar {
+color: #999999;
+line-height: 1.5em;
+}
+.sidebar ul {
+list-style:none;
+margin:0 0 0;
+padding:0 0 0;
+}
+.sidebar li {
+margin:0;
+padding-top:0;
+padding-right:0;
+padding-bottom:.25em;
+padding-left:15px;
+text-indent:-15px;
+line-height:1.5em;
+}
+.sidebar .widget, .main .widget {
+border-bottom:1px dotted #333333;
+margin:0 0 1.5em;
+padding:0 0 1.5em;
+}
+.main .Blog {
+border-bottom-width: 0;
+}
+/* Profile
+----------------------------------------------- */
+.profile-img {
+float: left;
+margin-top: 0;
+margin-right: 5px;
+margin-bottom: 5px;
+margin-left: 0;
+padding: 4px;
+border: 1px solid #333333;
+}
+.profile-data {
+margin:0;
+text-transform:uppercase;
+letter-spacing:.1em;
+font: normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif;
+color: #777777;
+font-weight: bold;
+line-height: 1.6em;
+}
+.profile-datablock {
+margin:.5em 0 .5em;
+}
+.profile-textblock {
+margin: 0.5em 0;
+line-height: 1.6em;
+}
+.profile-link {
+font: normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif;
+text-transform: uppercase;
+letter-spacing: .1em;
+}
+/* Footer
+----------------------------------------------- */
+#footer {
+width:660px;
+clear:both;
+margin:0 auto;
+padding-top:15px;
+line-height: 1.6em;
+text-transform:uppercase;
+letter-spacing:.1em;
+text-align: center;
+}
+.comments-page {background-color: #f2f2f2;}
+#blogger-comments-page {padding: 0px 5px;display: none;}
+.comments-tab { float: left; padding: 5px; margin-right: 3px; cursor: pointer; background-color: #f2f2f2;}
+.comments-tab-icon { height: 14px;width: auto;margin-right: 3px;}
+.comments-tab:hover { background-color: #eeeeee;}
+.inactive-select-tab { background-color: #d1d1d1;}
+.comments-page .fb_iframe_widget,
+.comments-page .fb_iframe_widget span,
+.comments-page .fb_iframe_widget span iframe[style] {
+min-width: 100% !important;
+width: 100% !important;
+}
+
+--></style>
+<script src='"//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.5&appId=1678775595734144";'></script>
+<meta content='1678775595734144' property='fb:app_id'/>
+<meta content='221375924569137' property='fb:admins'/>
+<script type='text/javascript'>
+ function commentToggle(comentario) {
+  if (comentario == '#fb-comments'){
+ window.document.getElementById("fb-comments-page").style.display='block';
+ window.document.getElementById("blogger-comments-page").style.display='none';
+ window.document.getElementById("fb-comments").style.background='#ffffff';
+ window.document.getElementById("blogger-comments").style.background='#d1d1d1';
+  } else if (comentario == '#blogger-comments') {
+ window.document.getElementById("blogger-comments-page").style.display='block';
+ window.document.getElementById("fb-comments-page").style.display='none';
+ window.document.getElementById("blogger-comments").style.background='#ffffff';
+ window.document.getElementById("fb-comments").style.background='#d1d1d1';
+ }}
+ window.onload = function(){
+ commentToggle('#fb-comments');
+ }</script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=2592931059274708515&amp;zx=b569743c-b43c-467c-86a0-4a0c73eeaff9' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=2592931059274708515&amp;zx=b569743c-b43c-467c-86a0-4a0c73eeaff9' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+</head>
+<body>
+<div class='navbar section' id='navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d2592931059274708515\x26blogName\x3dRetalhos+Hist%C3%B3ricos+de+Campina+Grande\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://cgretalhos.blogspot.com/search\x26blogLocale\x3dpt_BR\x26v\x3d2\x26homepageUrl\x3dhttps://cgretalhos.blogspot.com/\x26vt\x3d-2525797986605944757',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div id='fb-root'></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+<div id='outer-wrapper'><div id='wrap2'>
+<!-- skip links for text browsers -->
+<span id='skiplinks' style='display:none;'>
+<a href='#main'>skip to main </a> |
+      <a href='#sidebar'>skip to sidebar</a>
+</span>
+<div id='header-wrapper'>
+<div class='header section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<a href='https://cgretalhos.blogspot.com/' style='display: block'>
+<img alt="Retalhos Históricos de Campina Grande" height="470px; " id="Header1_headerimg" src="//2.bp.blogspot.com/_Irc0MonzA2E/TFa2tnU_ozI/AAAAAAAABHg/cjT_acKGUM0/S1600-R/LogoRHCGPintadaFinest.JPG" style="display: block" width="960px; ">
+</a>
+</div>
+</div></div>
+</div>
+<div id='content-wrapper'>
+<div id='crosscol-wrapper' style='text-align:center'>
+<div class='crosscol section' id='crosscol'><div class='widget Text' data-version='1' id='Text1'>
+<div class='widget-content'>
+Serviço de Utilidade Pública - Lei Municipal nº 5096/2011 de 24 de Novembro de 2011<br /><div>Criado por <b>Adriano Araújo</b> e <b>Emmanuel Sousa<br /></b>retalhoscg@hotmail.com<b><br /></b></div>
+</div>
+<div class='clear'></div>
+</div></div>
+</div>
+<div id='main-wrapper'>
+<div class='main section' id='main'><div class='widget BlogSearch' data-version='1' id='BlogSearch1'>
+<h2 class='title'>QUAL ASSUNTO VOCÊ ESTÁ PROCURANDO?</h2>
+<div class='widget-content'>
+<div id='BlogSearch1_form'>
+<form action='https://cgretalhos.blogspot.com/search' class='gsc-search-box' target='_top'>
+<table cellpadding='0' cellspacing='0' class='gsc-search-box'>
+<tbody>
+<tr>
+<td class='gsc-input'>
+<input autocomplete='off' class='gsc-input' name='q' size='10' title='search' type='text' value=''/>
+</td>
+<td class='gsc-search-button'>
+<input class='gsc-search-button' title='search' type='submit' value='Pesquisar'/>
+</td>
+</tr>
+</tbody>
+</table>
+</form>
+</div>
+</div>
+<div class='clear'></div>
+</div><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts'>
+<!--Can't find substitution for tag [adStart]-->
+<div class='post'>
+<div class='post-date'>
+<script type='text/javascript'>
+	  var timestamp = "quinta-feira, junho 22, 2017";
+	  if (timestamp != '') {
+		var timesplit = timestamp.split(",");
+		var date_yyyy = timesplit[2];
+		var timesplit = timesplit[1].split(" ");
+		var date_dd = timesplit[2];
+		var date_mmm = timesplit[1].substring(0, 3);
+	    }
+    </script>
+<span class='month block'><script type='text/javascript'>document.write(date_mmm);</script></span>
+<span class='day'><script type='text/javascript'>document.write(date_dd);</script></span>
+</div>
+<div class='title'>
+<a name='8943676309242171138'></a>
+<h4><a href='https://cgretalhos.blogspot.com/2017/06/memoria-do-sao-joao-campinense-fotos-de.html'>Memória do São João Campinense: Fotos de Desfile de Carroças - São João 1981</a></h4>
+<div class='post-uncleared'>
+</div>
+</div>
+<style>.fullpost{display:none;}</style>
+<div style="text-align: justify;">
+Recebemos do colaborador Saulo Pereira as imagens abaixo, proveniente do ano de 1981:</div>
+<div style="text-align: justify;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBISHK7LL9E7oEdu6Dy3fvsu5O-Fe0NuuTKJ5cj_hzr5yJ7XTlLl8qZm1nCA5IYxfBTuQFdB8jtgfZZhOk3mUzTRtDvFjSC49H_U6qkHPVusRGosxx9OyoUlAOVz4r0J5ZW0d0fqdyRmA/s1600/SaoJoao81-1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBISHK7LL9E7oEdu6Dy3fvsu5O-Fe0NuuTKJ5cj_hzr5yJ7XTlLl8qZm1nCA5IYxfBTuQFdB8jtgfZZhOk3mUzTRtDvFjSC49H_U6qkHPVusRGosxx9OyoUlAOVz4r0J5ZW0d0fqdyRmA/s640/SaoJoao81-1.jpg" width="608" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2RtHsIuPUJv7bNGn9BOEjyR0YOR40zrCZdv2HieO7K6LflY84wnoQKLwgqJAUzuswPnMljQ0sC7xRoFiVJSFmr-hOTgkfmbdh0sus_cyx0C0IKVmYvudqsCpcTazfSF1v4DpvtOX_uRE/s1600/SaoJoao81-2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2RtHsIuPUJv7bNGn9BOEjyR0YOR40zrCZdv2HieO7K6LflY84wnoQKLwgqJAUzuswPnMljQ0sC7xRoFiVJSFmr-hOTgkfmbdh0sus_cyx0C0IKVmYvudqsCpcTazfSF1v4DpvtOX_uRE/s640/SaoJoao81-2.jpg" width="620" /></a></div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: justify;">
+São registros do&nbsp;Desfile de Carroças - São João 1981, que marcava o mês de junho naquela época. Quem quiser visualizar mais fotos de nosso São João, clique <a href="http://www.facebook.com/media/set/?set=a.421256634581064.96865.221375924569137&amp;type=3" target="_blank">AQUI</a> e veja nosso album de fotos em nossa fanpage no Facebook.</div>
+<div class='post-meta'>
+<a class='btn btn-teal' href='https://cgretalhos.blogspot.com/2017/06/memoria-do-sao-joao-campinense-fotos-de.html'>Read More</a>
+<a class='comment-link' href='https://cgretalhos.blogspot.com/2017/06/memoria-do-sao-joao-campinense-fotos-de.html#comment-form' onclick=''>
+3
+comentários
+</a>
+ |  
+    
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+ | 
+    <span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=2592931059274708515&postID=8943676309242171138' title='Enviar esta postagem'>
+<img alt="" class="icon-action" src="//www.blogger.com/img/icon18_email.gif">
+</a>
+</span>
+</span>
+<span class='item-control blog-admin pid-1625904335'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2592931059274708515&postID=8943676309242171138&from=pencil' title='Editar postagem'>
+<img alt="edit post" class="icon-action" src="//www.blogger.com/img/icon18_edit_allbkg.gif">
+</a>
+</span>
+</div>
+</div>
+<div class='post'>
+<div class='post-date'>
+<script type='text/javascript'>
+	  var timestamp = "quarta-feira, junho 21, 2017";
+	  if (timestamp != '') {
+		var timesplit = timestamp.split(",");
+		var date_yyyy = timesplit[2];
+		var timesplit = timesplit[1].split(" ");
+		var date_dd = timesplit[2];
+		var date_mmm = timesplit[1].substring(0, 3);
+	    }
+    </script>
+<span class='month block'><script type='text/javascript'>document.write(date_mmm);</script></span>
+<span class='day'><script type='text/javascript'>document.write(date_dd);</script></span>
+</div>
+<div class='title'>
+<a name='681404650381208852'></a>
+<h4><a href='https://cgretalhos.blogspot.com/2017/06/memorial-do-maior-sao-joao-do-mundo.html'>Memorial do Maior São João do Mundo</a></h4>
+<div class='post-uncleared'>
+</div>
+</div>
+<style>.fullpost{display:none;}</style>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu6ZI85YiFUAZi0FzC9kT5ORoRJm_N4jRpoAfa6I9SZUoj0Kf1I_NmrS9-HUVBDVQU5i5ngTjiQy7nryIvHVNg2q7-mdQHcHdadNQ8NE-IzmmD4aZATpMXeNR1f8QBnn6onU_pJS7uRxs/s1600/MemorialSJMundo_ProfaClea.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu6ZI85YiFUAZi0FzC9kT5ORoRJm_N4jRpoAfa6I9SZUoj0Kf1I_NmrS9-HUVBDVQU5i5ngTjiQy7nryIvHVNg2q7-mdQHcHdadNQ8NE-IzmmD4aZATpMXeNR1f8QBnn6onU_pJS7uRxs/s1600/MemorialSJMundo_ProfaClea.jpg" width="426" /></a></div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+No período em que se realiza mais uma edição d'O Maior São João do Mundo, a festa que 'marca' nossa cidade no calendário de eventos nacionais, colocando Campina Grande nos roteiros do turismo junino,&nbsp;um local além do Parque do Povo merece ser visitado!</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+A gênese e a evolução dessa festa, que se confunde com a própria História de Campina Grande nos últimos 30 anos, pode ser conferida por quem visita nossa cidade, bem como pelos próprios campinenses, no 'Memorial do Maior São João do Mundo'; iniciativa da Professora <a href="https://www.facebook.com/clea.cordeiro?fref=nf" target="_blank">Cléa Cordeiro</a> Rodrigues.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+O Memorial temático está localizado bem próximo ao Parque do Povo, à Rua Tiradentes 165, e estará de portas abertas para acolher os visitantes com um grande acervo de fotos da construção e inauguração do Parque do Povo, antigos cartazes e 'folders' de divulgação do evento, fotos de apresentações dos artistas locais, além da vasta coletânea de quadrilhas juninas e registros do evento em jornais e revistas. &nbsp;</div>
+<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4LnBOL9YVpLltRp731i80ZPkz9yBMYH3sAzepFM5YVA3rV_WsAKAnvpcXfxGWFXG4isrt-xH-NFtNZ9BMjHKIGuTr5lLXcw4JOTSn9weIhgvoflvdvA6KV_Ow4nd_bob1XTOSFktGsuo/s1600/MemorialSJMundo_ProfaClea2.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4LnBOL9YVpLltRp731i80ZPkz9yBMYH3sAzepFM5YVA3rV_WsAKAnvpcXfxGWFXG4isrt-xH-NFtNZ9BMjHKIGuTr5lLXcw4JOTSn9weIhgvoflvdvA6KV_Ow4nd_bob1XTOSFktGsuo/s1600/MemorialSJMundo_ProfaClea2.jpg" width="564" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;"><i>Memorial Maior São João do Mundo<br />Rua Tiradentes, 165 - Centro<br />Campina Grande-PB</i></td></tr>
+</tbody></table>
+<br />
+<br />
+<div class='post-meta'>
+<a class='btn btn-teal' href='https://cgretalhos.blogspot.com/2017/06/memorial-do-maior-sao-joao-do-mundo.html'>Read More</a>
+<a class='comment-link' href='https://cgretalhos.blogspot.com/2017/06/memorial-do-maior-sao-joao-do-mundo.html#comment-form' onclick=''>
+4
+comentários
+</a>
+ |  
+    
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+ | 
+    <span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=2592931059274708515&postID=681404650381208852' title='Enviar esta postagem'>
+<img alt="" class="icon-action" src="//www.blogger.com/img/icon18_email.gif">
+</a>
+</span>
+</span>
+<span class='item-control blog-admin pid-866666248'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2592931059274708515&postID=681404650381208852&from=pencil' title='Editar postagem'>
+<img alt="edit post" class="icon-action" src="//www.blogger.com/img/icon18_edit_allbkg.gif">
+</a>
+</span>
+</div>
+</div>
+<div class='post'>
+<div class='post-date'>
+<script type='text/javascript'>
+	  var timestamp = "terça-feira, junho 20, 2017";
+	  if (timestamp != '') {
+		var timesplit = timestamp.split(",");
+		var date_yyyy = timesplit[2];
+		var timesplit = timesplit[1].split(" ");
+		var date_dd = timesplit[2];
+		var date_mmm = timesplit[1].substring(0, 3);
+	    }
+    </script>
+<span class='month block'><script type='text/javascript'>document.write(date_mmm);</script></span>
+<span class='day'><script type='text/javascript'>document.write(date_dd);</script></span>
+</div>
+<div class='title'>
+<a name='3331026901930374528'></a>
+<h4><a href='https://cgretalhos.blogspot.com/2017/06/memoria-empresarial-o-spazzio.html'>Memória Empresarial: O Spazzio</a></h4>
+<div class='post-uncleared'>
+</div>
+</div>
+<style>.fullpost{display:none;}</style>
+<div class="MsoNormal" style="text-align: justify;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTrp_YrR73PWKCXn5qCkHFOXVHNELQT_1kk06H9v9HtivKOw5zeNnrZZjKg2cjCKZ9lTAnNtoMEs6332Nv0pQNhBf3PvUiY4cIsKqk1D8vMwUnZoq7baHFzseFBFF4tDBvFqHQYZOe1s/s1600/Forrock.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="101" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTrp_YrR73PWKCXn5qCkHFOXVHNELQT_1kk06H9v9HtivKOw5zeNnrZZjKg2cjCKZ9lTAnNtoMEs6332Nv0pQNhBf3PvUiY4cIsKqk1D8vMwUnZoq7baHFzseFBFF4tDBvFqHQYZOe1s/s200/Forrock.jpg" width="200" /></a><span style="font-family: &quot;arial&quot;; font-size: 10pt;">Quando a casa de shows &#8220;Forrock&#8221; foi inaugurada </span><personname productid="em Campina Grande"><span style="font-family: &quot;arial&quot;; font-size: 10pt;">em Campina Grande</span></personname><span style="font-family: &quot;arial&quot;; font-size: 10pt;">, no já distante ano de 1985, os campinenses ficaram encantados com aquele local, o nome diferente e principalmente, com as atrações que vieram a se apresentar na cidade, geralmente grandes nomes de nossa música popular.</span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">O local do Forrock, situado na Avenida Almirante Barroso no bairro do Cruzeiro, entrou para a história cultural de Campina Grande, infelizmente, o grupo que comandava o local resolveu investir apenas </span><personname productid="em Jo&#65507;o Pessoa"><span style="font-family: &quot;arial&quot;; font-size: 10pt;">em João Pessoa</span></personname><span style="font-family: &quot;arial&quot;; font-size: 10pt;">, fato comum nos investimentos </span><personname productid="em Campina Grande. Percebe-se"><personname productid="em Campina Grande."><span style="font-family: &quot;arial&quot;; font-size: 10pt;">em Campina Grande.</span></personname><span style="font-family: &quot;arial&quot;; font-size: 10pt;"> Percebe-se</span></personname><span style="font-family: &quot;arial&quot;; font-size: 10pt;">, que ao se ganhar dinheiro e fama na cidade, o próximo passo é encerrar o empreendimento e se transferir para João Pessoa ou outra cidade maior.</span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">Porém, os tempos eram outros e ao se perceber que a cidade era viável economicamente para grandes eventos musicais, vários empresários se interessaram em investir no ramo, como foi o caso de um grupo comandado por Luiz Augusto Nóbrega Oliveira, que na década de 70 ficou conhecido </span><personname productid="em Campina Grande"><span style="font-family: &quot;arial&quot;; font-size: 10pt;">em Campina Grande</span></personname><span style="font-family: &quot;arial&quot;; font-size: 10pt;">, por comandar uma torcida organizada do Treze Futebol Clube, a &#8220;Guga&#8221;. Foram exatamente os eventos promovidos pela Guga, que deu a experiência necessária a Luiz Augusto para a promoção de eventos.</span><br />
+<br />
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKL0Mod8Xjtk6jW0nC09TH2jx-JKd0O6eQVTullYrrj0Mtv82GENdJ0hvxkSHmEmMdYFVG_GNbL85cvtZ_7zNOz7012P11GO-QDWdFK9SZQ7rTX68F_74YuRXXme3xPilqvHCnMv6y0aY/s1600/Spazzio1.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKL0Mod8Xjtk6jW0nC09TH2jx-JKd0O6eQVTullYrrj0Mtv82GENdJ0hvxkSHmEmMdYFVG_GNbL85cvtZ_7zNOz7012P11GO-QDWdFK9SZQ7rTX68F_74YuRXXme3xPilqvHCnMv6y0aY/s320/Spazzio1.jpg" /></a></div>
+<div class="MsoNormal" style="text-align: justify;">
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">No dia 16 de junho de 1987, foi inaugurada na época, a maior casa de shows da América Latina, o Spazzio. A grandiosidade do local chamava a atenção de todos os brasileiros, já que a pergunta geral era: como é que uma cidade do interior da Paraíba tinha &#8220;bala na agulha&#8221; para tamanho empreendimento? Um dos maiores fãs do Spazzio era Chico Anísio, que sempre se referia a casa de shows em algumas entrevistas, isso no final dos anos 80.</span><br />
+<br />
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2eH4c3NpnWr0XOgr0g9fhOeJarQaQwhdkxx2iW5UOJYZ4QJDxdB4g_yBmGAdIJxNpeVmh4bmTWwRNKD2-4lUfxejVGBRS2xJHwOnBGLjLuHI795YYV1cPSbKCJIls_QDPYCvf_y-wueI/s1600/Spazzio2.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="133" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2eH4c3NpnWr0XOgr0g9fhOeJarQaQwhdkxx2iW5UOJYZ4QJDxdB4g_yBmGAdIJxNpeVmh4bmTWwRNKD2-4lUfxejVGBRS2xJHwOnBGLjLuHI795YYV1cPSbKCJIls_QDPYCvf_y-wueI/s200/Spazzio2.jpg" width="200" /></a><span style="font-family: &quot;arial&quot;; font-size: 10pt;">Com capacidade para acomodar 18 mil espectadores, o Spazzio já teve a honra de ter em seu palco, nomes como Ray Connif, Julio Iglesias, Jimmy Cliff, Roberto Carlos, Caetano Veloso, Gilberto Gil, The Platters e vários outros ícones da música em geral. &#8220;O Spazzio é uma casa rústica mais para a região é muito ousada. Logo no início levamos o Júlio Iglesias, pela primeira vez, quando ele veio ao Brasil e foi cantar no Nordeste&#8221;, relatou Luiz Augusto a um site de Pernambuco.</span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">O sócio de Luiz Augusto é o empresário Zito Buarque, conhecido na região por suas Usinas de Cana-de-Açúcar e outros ramos empresariais, além de ser apaixonado pelo Campinense Clube, o qual ajuda financeiramente. No áudio abaixo, retirado do programa &#8220;Mesa de Bar&#8221; da Rádio Cariri, Buarque fala de como começou seu envolvimento com o Spazzio, além de uma engraçada história sobre um show de Roberto Carlos:</span></div>
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><br />
+<div class="MsoNormal" style="text-align: center;">
+<div style="margin-bottom: -5px;">
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><object height="85" width="440"><param name="movie" value="https://cgretalhos.podomatic.com/swf/joeplayer_v18c.swf"></param>
+<param name='flashvars' value='minicast=false&amp;jsonLocation=http%3A%2F%2Fcgretalhos.podomatic.com%2Fentry%2Fembed_params%2F2009-11-19T03_05_21-08_00%3Fcolor%3D43bee7%26autoPlay%3Dfalse%26width%3D440%26height%3D85'></param>
+<param name='allowFullScreen' value='true'></param>
+<param name='allowscriptaccess' value='always'></param>
+<embed src="https://cgretalhos.podomatic.com/swf/joeplayer_v18c.swf" flashvars="minicast=false&amp;jsonLocation=http%3A%2F%2Fcgretalhos.podomatic.com%2Fentry%2Fembed_params%2F2009-11-19T03_05_21-08_00%3Fcolor%3D43bee7%26autoPlay%3Dfalse%26width%3D440%26height%3D85" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="440" height="85"></embed></object><br />
+</span><br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">&nbsp; <br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"></span></span></div>
+<br />
+<div class="MsoNormal" style="text-align: justify;">
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"></span></div>
+<div class="MsoNormal" style="text-align: justify;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIslZ8Qm-gj9uAvTHaQ9Aynk1LDv2ytHHjYhOKMAb3yrR50fbti2d83GBXl1G-_UAQtGzc1BcTOZJYsJ-mLgkxiEcuB18SY_uZkXkSGWm5ezYGBC2O5y8Ywfx4H7Fx5hKdEg62NZoiNw/s1600/Spazzio3.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIslZ8Qm-gj9uAvTHaQ9Aynk1LDv2ytHHjYhOKMAb3yrR50fbti2d83GBXl1G-_UAQtGzc1BcTOZJYsJ-mLgkxiEcuB18SY_uZkXkSGWm5ezYGBC2O5y8Ywfx4H7Fx5hKdEg62NZoiNw/s200/Spazzio3.jpg" /></a><span style="font-family: &quot;arial&quot;; font-size: 10pt;">Com 22 anos de serviços prestados a cidade, o Spazzio mantém sua história de shows, apesar de nos últimos anos a qualidade musical ter caído um pouco. Esperamos mais shows de uma qualidade de um Djavan, Ana Carolina etc., pois Campina Grande não é apenas forró, porém, é verdade que o gosto popular não deve ser esquecido. Talvez a grande pedida seja encontrar um meio termo entre os vários gostos musicais.</span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">Abaixo, uma relação de shows realizados no Spazzio até o ano de 2003:</span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>1987 </b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">19/06 &#8211; Jorge de Altinho/ Alceu Valença <br />
+20/06 &#8211; Luiz Gonzaga/ Marinês/ Capilé <br />
+21/06 &#8211; Chiclete c/ Banana/ Dominguinhos <br />
+23/06 &#8211; Elba Ramalho / Luis Gonzaga/ Jorge de Altinho <br />
+24/06 &#8211; Nando Cordel/ Dominguinhos <br />
+26/06 &#8211; Luiz Gonzaga/ Fagner/ Alcimar Monteiro <br />
+27/06 &#8211; Elba Ramalho/ Chiclete com Banana / Capilé <br />
+28/06 &#8211; Alceu Valença/ Nando Cordel <br />
+08/08 &#8211; Elba Ramalho/ Chiclete com Banana <br />
+28/08 &#8211; Fagner/ Chico Buarque <br />
+04/10 &#8211; Trem da Alegria <br />
+17/10 &#8211; Ivan Lins/ Morais Moreira/ Capilé <br />
+23/10 &#8211; Lobão <br />
+28/11 &#8211; Toquinho (Desfile de Modas) <br />
+04/12 &#8211; Roberto Carlos <br />
+05/12 &#8211; Roberto Carlos <br />
+13/12 &#8211; Festival do Chopp <br />
+31/12 &#8211; Chiclete c/ Banana ( Reveillon )</span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>1988 </b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">23/01 &#8211; Julio Iglesias <br />
+05/03 &#8211; Tokyo Banda de Supla/ Zero/ Capital Inicial ( Festival do Rock ) <br />
+04/04 &#8211; Fevers/ Renato e Seus Blue Caps/ Ivanildo Sax ( Festa Anos 60 ) <br />
+04/06 &#8211; Ray Conniff <br />
+11/06 &#8211; Amelinha/ Madruga/ Nando Cordel <br />
+18/06 &#8211; Chiclete c/ Banana/ Fagner/ Almanarte Brasil <br />
+23/06 &#8211; Elba Ramalho/ Nando Cordel/ Capilé <br />
+24/06 &#8211; Jorge de Altinho/ Fagner/ Três do Nordeste <br />
+25/06 &#8211; Caetano Veloso/ Dominguinhos/ Chiclete com Banana/ Gilberto Gil <br />
+26/06 &#8211; Chiclete c/ Banana/ Almanarte Brasil/ Banda Reflexus <br />
+28/06 &#8211; Geraldo Azevedo/ Elba Ramalho/ Novinho da Paraíba <br />
+02/07 &#8211; Chiclete c/ Banana/ Capilé/ Jorge de Altinho/ Os Tropicais <br />
+09/07 &#8211; Três do Nordeste/ Capilé/ Trio Nordestino/ Os Tropicais <br />
+06/08 &#8211; Banda Reflexus/ Luis Caldas <br />
+27/08 &#8211; Adilson Ramos/ Alípio Martins/ Nelson Gonçalves <br />
+04/09 &#8211; Xou da Xuxa <br />
+10/09 &#8211; Gal Costa <br />
+24/09 &#8211; Lulu Santos<br />
+15/10 &#8211; Homenagem a Luiz Gonzaga<br />
+24/12 &#8211; Banda Mel <br />
+31/12 &#8211; Neguinho da Beija Flor </span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>1989 </b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">28/04 &#8211; Paulinho da Viola/ Fagner/ Chico Buarque <br />
+03/06 &#8211; Chiclete c/ Banana <br />
+10/06 &#8211; Fábio Júnior/ Capilé/ Wilma <br />
+17/06 &#8211; Fafá de Belém/ Assisão/ Alcimar monteiro <br />
+23/06 &#8211; Elba Ramalho/ Dominguinhos/ Madruga <br />
+24/06 &#8211; Chiclete c/ Banana/ Nando Cordel/Tânia Alves <br />
+28/06 &#8211; Trio Nordestino/ Chiclete c/ Banana/ Som da Terra <br />
+01/07 &#8211; Ney Matogrosso/ Antonio Barros e Ceceu <br />
+29/07 &#8211; Lulu Santos <br />
+02/09 &#8211; Simone e Banda Caprichosos de Pilares <br />
+24 à 27/09 &#8211; Fetec <br />
+22/10 &#8211; Angélica <br />
+09/12 &#8211; Roberto Carlos <br />
+30/12 &#8211; Chiclete c/ Banana/ Luis Caldas</span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>1990</b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">13/03 &#8211; Formatura Colégio da Prata <br />
+27/04 &#8211; Micarande ( Orquestra Popular de Olinda ) <br />
+01/05 - Micarande ( Orquestra Popular de Olinda ) <br />
+24 à 27/05 &#8211; Campina Grande Mostra Negócio ( Feira ) <br />
+02/06 &#8211; Titãs e Capilé <br />
+13/06 &#8211; Alceu Valença / Eliane/ Wilma <br />
+22/06 &#8211; Elba Ramalho/ Gonzaguinha <br />
+23/06 &#8211; Chiclete c/ Banana/ Nando Cordel <br />
+29/06 &#8211; Fagner/ Fafá de Belém <br />
+30/06 &#8211; Luis Caldas/ Pepeu Gomes/ Morais Moreira <br />
+04/08 &#8211; Paralamas do Sucesso <br />
+01/09 &#8211; The Platters/ Milton Nascimento <br />
+13 à 16/09 &#8211; Fetec <br />
+29/09 &#8211; Ray Conniff/ Beto Barbosa <br />
+27/10 &#8211; Roupa Nova/ Banda Beijo ( 13 anos Rádio C.G FM ) <br />
+28/10 &#8211; Dominó <br />
+17/11 - Artistas da Terra ( SOS Paraiban) <br />
+02/12 &#8211; Festival do Chopp ( Capilé e os Feras ) <br />
+29/12 &#8211; Chiclete com Banana / Luis Caldas</span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>1991 </b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">11 À 12/5 - Cidinho E Seus Convidados (24 Horas De Forró). <br />
+01/06 - Gilberto Gil/ Trio Nordestino. <br />
+15/06 - Pinto Do Acordeom/ Amazan/ Josinaldo. <br />
+21/06 - Elba Ramalho/ Banda Cheiro De Amor. <br />
+22/06 - Fagner/ Jorge De Altinho. <br />
+23/06 - Chiclete Com Banana/ Nando Cordel/ Capilé. <br />
+28/06 - Luis Caldas/ Três Do Nordeste <br />
+29/06 &#8211; Roupa Nova/ Flávio José <br />
+30/06 &#8211; Forrorande ( Trio Papa Léguas ) <br />
+09/11 &#8211; Papa Léguas e Banda Beijo <br />
+30/11 &#8211; Jimmy Cliff <br />
+08/12 &#8211; Mara Maravilha <br />
+28/12 &#8211; Chiclete c/ Banana / Capilé</span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>1992 </b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">11/04 &#8211; Daniela Mercury/ Alceu Valença <br />
+01/05 &#8211; Os Feras <br />
+02/05 &#8211; Daniela Mercury <br />
+03/05 &#8211; Ricardo Chaves <br />
+23/05 &#8211; Banda Mel <br />
+13/06 &#8211; Fábio Junior/ Antonio Barros e Ceceu <br />
+19/06 &#8211; Chiclete c/ Banana/ Jorge de Altinho <br />
+20/06 &#8211; Fagner/ Três do Nordeste <br />
+21/06 &#8211; Banda Cheiro/ Biliu de Campina <br />
+23/06 &#8211; Elba Ramalho/ Capilé <br />
+24/06 &#8211; Chiclete com Banana <br />
+27/06 &#8211; Daniela Mercury/ Nando Cordel <br />
+28/06 &#8211; Banda mel/ Inaldete Amorim <br />
+17 à 21/09 &#8211; Fetec <br />
+17/10 &#8211; Eliane/ Nando cordel <br />
+05/12 &#8211; Roberto Carlos <br />
+26/12 &#8211; Chiclete c/ Banana/ Alceu Valença/ Banda Feras</span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>1993 </b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">27/03 &#8211; Lulu santos/ Banda Cheiro ( Prévia da Micarande ) <br />
+16 à 18/04 &#8211; Banda Palov/ Feras <br />
+11 à 13/05 &#8211; Campina Grande Mostra Negócio <br />
+19/06 &#8211; Banda Beijo/ Jorge de Altinho <br />
+23/06 &#8211; Chiclete c/ Banana/ Antonio Barros e Ceceu/ Banda Palov <br />
+25/06 &#8211; Elba Ramalho/ Banda Cheiro <br />
+26/06 &#8211; Asa de Águia/ Nando Cordel <br />
+10/10 &#8211; Os Trapalhões <br />
+16/10 &#8211; Mastruz c/ Leite/ Reginaldo Rosssi <br />
+18/12 &#8211; Chiclete c/ Banana <br />
+25/12 &#8211; Banda Cheiro/ Eliane </span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>1994 </b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">26/03 &#8211; Asa de Águia / Banda Efan <br />
+09/04 &#8211; Roberto Carlos/ Banda Feras <br />
+23/06 &#8211; Elba Ramalho/ Mastruz c/ Leite <br />
+24/06 &#8211; Jorge Bem Jor/ Banda Cheiro <br />
+25/06 &#8211; Tim Maia/ Lulu Santos <br />
+16/10 &#8211; Asa de Águia/ Eliane <br />
+26/11 &#8211; Zezé di Camargo e Luciano <br />
+16/12 &#8211; Netinho <br />
+30/12 &#8211; Chiclete c/ Banana </span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>1995</b> </span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">18/03 &#8211; Asa de Águia <br />
+25 à 28/05 &#8211; IV Campina Mostra Negócio e IV metalmec <br />
+23/06 &#8211; Elba Ramalho/ Banda Eva/ Amazan <br />
+24/06 &#8211; Fagner/ Chiclete c/ Banana/ Amazan <br />
+29/07 &#8211; Raça Negra/ Banda Palov <br />
+02/12 &#8211; Fábio Júnior/ Banda Efan <br />
+30/12 &#8211; Chiclete c/ Banana / Alerta Geral/ Capilé</span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>1996 </b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">20/03 &#8211; Asa De Águia <br />
+30/03 &#8211; Elba Ramalho/Geraldo Azevedo/Alceu Valença/Zé Ramalho <br />
+22/06 &#8211; Elba Ramalho /Gera Samba / Amazan <br />
+23/06 &#8211; Fagner /Mastruz Com Leite /Amazan <br />
+21/07 &#8211; Chiclete Com Banana /Cavalo De Pau <br />
+19/09 &#8211; Zezé Di Camargo E Luciano /Sirano E Sirino <br />
+23/11 &#8211; Roberto Carlos</span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>1997</b> </span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">15/03 - Asa de Águia e Mexe Ville <br />
+20/04 - Sirano e Sirino / É O Tchan e Capilé <br />
+22/06 - Zezé di Camargo e Luciano / Magníficos / Amazam <br />
+23/06 - Daniela Mercury e Baby Som <br />
+17/08 - Tiririca/ Capilé <br />
+30/08 - Molejo/ Flavio Jose/ Banda Metrópole <br />
+18/10 - Chitãozinho e Xororó/ Sirano e Sirino <br />
+28/11 - Só Pra Contrariar/ Mexe Ville <br />
+13/12 - Banda Mexe Ville/ <br />
+27/12 - Banda Eva/ Jamil e uma Noites </span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>1998</b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">21/03&#8211; Só Pra Contrariar/ Banda Malagueta/ Mexe E Ville <br />
+22/05&#8211; Roberto Carlos/ Banda Feras <br />
+20/06&#8211; Chiclete com Banana/ Magníficos/ Amazam <br />
+21/07&#8211; Chiquititas/ Palhaço Pipoquinha <br />
+04/08&#8211; Padre Zé Ivanildo ( Show da Igreja de Fátima ) <br />
+17/10&#8211; Terra Samba <br />
+12/12&#8211; Zezé di Camargo e Luciano/ malagueta e Mexe e Ville <br />
+25/12&#8211; Araketu/ Ricardo Chaves/ S3 <br />
+27/12&#8211; Padre Zé Vanildo ( Igreja ) </span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>1999</b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">26/03 &#8211; Daniel e Alerta Geral <br />
+09/05 &#8211; Padre Zezinho <br />
+19/06 &#8211; Chiclete Com Banana/ Magníficos / Reginaldo Rossi / Amazan <br />
+02/07 &#8211; Zezé Di Camargo E Luciano <br />
+16/10 &#8211; Leonardo/ Mexe Ville/ Luizinho De Irauçuba / Amazan <br />
+27/11 &#8211; Renato e Seus Blue Caps/Os Feveres / Os Pholhas <br />
+25/12 &#8211; Ivete Sangalo / Furdunço E Capilé. </span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>2000 </b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">23/06 &#8211; Chiclete Com Banana/ Nando Cordel / Amazan <br />
+01/07 &#8211; Zezé Di Camargo &amp; Luciano / Amazan <br />
+20/08 &#8211; Os Travessos / Ala Ursa / Só Balanço E Furdunço <br />
+12/10 &#8211; Klb / Furdunço / Los Papas <br />
+22/12 &#8211; Harmonia Do Samba </span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>2001 </b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">22/06 &#8211; Zeze Di Camargo &amp; Luciano / Os Feras / Amazan <br />
+24/08 &#8211; Exaltasamba / Jorge Aragão / Artemanha <br />
+26/10 &#8211; Skank / Area 51 <br />
+29/12 &#8211; Chiclete Com Banana </span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>2002 </b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">21/06 &#8211; Zezé Di Camargo E Luciano /Ton Oliveira / Lagosta Bronzeada <br />
+23/08 &#8211; Roberto Carlos E Across The Beatles <br />
+22/09&#8211; O GRANDE ENCONTRO DA MUSICA CATOLICA CAMPINENSE <br />
+29/12 &#8211; Babado Novo / Calypso E Capilé </span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><b>2003 </b></span><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">26/04 &#8211; Formatura da UEPB <br />
+21/06 &#8211; Elba Ramalho / Babado Novo / Palov e Amazan <br />
+03/10 - Kid Abelha / Senhoritas e Impossíveis <br />
+22/11 - Raça Negra e Eliane <br />
+05/12 - Fevers / Pholhas e Renato e seus Blue Cap's <br />
+26/12 - Ivete Sangalo /A Zorra / Capile&nbsp;</span><br />
+<br />
+<b><span style="font-family: &quot;arial&quot;; font-size: 10pt;">Anexos:</span></b><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">Trecho de um show de Djavan&nbsp; realizado no Spazzio:</span></div>
+<br />
+<div class="MsoNormal" style="text-align: center;">
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"><object height="344" width="425"><param name="movie" value="https://www.youtube.com/v/isg5ie1UW3w&amp;hl=pt_BR&amp;fs=1"></param>
+<param name="allowFullScreen" value="true"></param>
+<param name="allowscriptaccess" value="always"></param>
+<embed src="https://www.youtube.com/v/isg5ie1UW3w&amp;hl=pt_BR&amp;fs=1" type="application/x-shockwave-flash" width="425" height="344" allowscriptaccess="always" allowfullscreen="true"></embed></object></span></div>
+<div class="MsoNormal" style="text-align: center;">
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">Fonte: www.camera21.com.br<br />
+</span></div>
+<div class="MsoNormal">
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;"></span><br />
+<br /></div>
+<div class="MsoNormal">
+<b><span style="font-family: &quot;arial&quot;; font-size: 10pt;">Fontes Utilizadas:</span></b><br />
+<br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">-Arquivos Pessoais</span><br />
+<span style="font-family: &quot;arial&quot;; font-size: 10pt;">-www.spazzio.com.br</span><br />
+-Rádio Cariri<br />
+-www.camera21.com.br</div>
+</div>
+<div class='post-meta'>
+<a class='btn btn-teal' href='https://cgretalhos.blogspot.com/2017/06/memoria-empresarial-o-spazzio.html'>Read More</a>
+<a class='comment-link' href='https://cgretalhos.blogspot.com/2017/06/memoria-empresarial-o-spazzio.html#comment-form' onclick=''>
+25
+comentários
+</a>
+ |  
+    
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+ | 
+    <span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=2592931059274708515&postID=3331026901930374528' title='Enviar esta postagem'>
+<img alt="" class="icon-action" src="//www.blogger.com/img/icon18_email.gif">
+</a>
+</span>
+</span>
+<span class='item-control blog-admin pid-1625904335'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2592931059274708515&postID=3331026901930374528&from=pencil' title='Editar postagem'>
+<img alt="edit post" class="icon-action" src="//www.blogger.com/img/icon18_edit_allbkg.gif">
+</a>
+</span>
+</div>
+</div>
+<div class='post'>
+<div class='post-date'>
+<script type='text/javascript'>
+	  var timestamp = "sexta-feira, junho 16, 2017";
+	  if (timestamp != '') {
+		var timesplit = timestamp.split(",");
+		var date_yyyy = timesplit[2];
+		var timesplit = timesplit[1].split(" ");
+		var date_dd = timesplit[2];
+		var date_mmm = timesplit[1].substring(0, 3);
+	    }
+    </script>
+<span class='month block'><script type='text/javascript'>document.write(date_mmm);</script></span>
+<span class='day'><script type='text/javascript'>document.write(date_dd);</script></span>
+</div>
+<div class='title'>
+<a name='1524540024472681378'></a>
+<h4><a href='https://cgretalhos.blogspot.com/2017/06/foto-memoria-forrock-1988.html'>Foto Memória: Forrock (1988)</a></h4>
+<div class='post-uncleared'>
+</div>
+</div>
+<style>.fullpost{display:none;}</style>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhUuxVOJrt_DPytlTZP1QMvB7qu-jPBI8_LKbh2Yvg1joumVnREDNK50vlD4_HzGQJcmv9ywuCZ7xG0IN7WM0G6IBa5nWKXC3ZOZBloaHb8UzCILP4tLA1KUfE0luwfINVvOEhnCfZXEM/s1600/Forrockrhcg.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhUuxVOJrt_DPytlTZP1QMvB7qu-jPBI8_LKbh2Yvg1joumVnREDNK50vlD4_HzGQJcmv9ywuCZ7xG0IN7WM0G6IBa5nWKXC3ZOZBloaHb8UzCILP4tLA1KUfE0luwfINVvOEhnCfZXEM/s640/Forrockrhcg.jpg" width="640" /></a></div>
+<br />
+<div style="text-align: justify;">
+Foto enviada por Marcos Silva, da antiga casa de shows 'Forrock', inaugurada em 1985, localizada na Avenida Almirante Barroso, no Bairro do Cruzeiro.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+O Forrock encerrou suas atividades dez anos mais tarde, em 1995; por alguns anos o local foi utilizado como depósito da Prefeitura Municipal de Campina Grande e, recentemente, desde Abril de 2012, abriga uma das unidades de 'call center' da empresa mineira A&amp;C.</div>
+<div class='post-meta'>
+<a class='btn btn-teal' href='https://cgretalhos.blogspot.com/2017/06/foto-memoria-forrock-1988.html'>Read More</a>
+<a class='comment-link' href='https://cgretalhos.blogspot.com/2017/06/foto-memoria-forrock-1988.html#comment-form' onclick=''>
+5
+comentários
+</a>
+ |  
+    
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+ | 
+    <span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=2592931059274708515&postID=1524540024472681378' title='Enviar esta postagem'>
+<img alt="" class="icon-action" src="//www.blogger.com/img/icon18_email.gif">
+</a>
+</span>
+</span>
+<span class='item-control blog-admin pid-866666248'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2592931059274708515&postID=1524540024472681378&from=pencil' title='Editar postagem'>
+<img alt="edit post" class="icon-action" src="//www.blogger.com/img/icon18_edit_allbkg.gif">
+</a>
+</span>
+</div>
+</div>
+<div class='post'>
+<div class='post-date'>
+<script type='text/javascript'>
+	  var timestamp = "quarta-feira, junho 14, 2017";
+	  if (timestamp != '') {
+		var timesplit = timestamp.split(",");
+		var date_yyyy = timesplit[2];
+		var timesplit = timesplit[1].split(" ");
+		var date_dd = timesplit[2];
+		var date_mmm = timesplit[1].substring(0, 3);
+	    }
+    </script>
+<span class='month block'><script type='text/javascript'>document.write(date_mmm);</script></span>
+<span class='day'><script type='text/javascript'>document.write(date_dd);</script></span>
+</div>
+<div class='title'>
+<a name='4930738080650364916'></a>
+<h4><a href='https://cgretalhos.blogspot.com/2017/06/25-anos-do-programa-legal-de-1992-rede.html'>25 ANOS DO PROGRAMA LEGAL DE 1992 (REDE GLOBO)</a></h4>
+<div class='post-uncleared'>
+</div>
+</div>
+<style>.fullpost{display:none;}</style>
+<div style="text-align: justify;">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3sbBKzSnIYkiZuce9fw8d2cayCcDxUkA_-V70SvwMnlUe2n1lQnAF-oP7lbFV9P54wzwxH0YzLUngNnbSHwjx_6iIIXqg9ErXa_nc_cvvYenMFG3DIKiOeaEO4J6qNLwzeGoOK0aaMVM/s1600/Legal.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="356" data-original-width="476" height="239" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3sbBKzSnIYkiZuce9fw8d2cayCcDxUkA_-V70SvwMnlUe2n1lQnAF-oP7lbFV9P54wzwxH0YzLUngNnbSHwjx_6iIIXqg9ErXa_nc_cvvYenMFG3DIKiOeaEO4J6qNLwzeGoOK0aaMVM/s320/Legal.jpg" width="320" /></a></div>
+<br />
+<br />
+No ano de 1992, a equipe de produção do "Programa Legal", da Rede Globo, apresentado pelos atores Regina Casé e Luiz Fernando Guimarães, esteve em Campina Grande para gravação de uma edição com o tema "O Maior São João do Mundo".<br />
+<br />
+A exibição deste programa completa, em 2017, 25 anos!!!<br />
+<br />
+Graças à colaboração de Lucas Azevedo, filho do jornalista e professor Rômulo Azevedo, &nbsp;um dos idealizadores do blog "30diasdefesta", reapresentamos o "Programa Legal" que pautou nosso evento para todo o Brasil.<br />
+<br /></div>
+<div style="text-align: center;">
+<iframe frameborder="0" height="360" src="https://www.dailymotion.com/embed/video/xz8xx5" width="480"></iframe><br />
+<a href="http://www.dailymotion.com/video/xz8xx5_pl92_creation" target="_blank">PL92</a> <i>por <a href="http://www.dailymotion.com/dm_50ddd37e99b0d" target="_blank">dm_50ddd37e99b0d</a></i></div>
+<div style="text-align: justify;">
+<br />
+Atrevemos-nos a tecer algumas considerações sobre o vídeo acima:<br />
+<br />
+No programa da Rede Globo, apresentado por Luiz Fernando Guimarães e Regina Casé no ano de 1992, é apresentado o tradicional &#8220;deboche&#8221; das emissoras do Sudeste quando&nbsp; fala da Paraíba. O fato fica ainda mais evidente na figura de Luiz Fernando, inclusive quando ele diz a certa altura, que não estava gostando do Maior São João do Mundo (quando alguém pergunta se ele gostava da festa e ele diz &#8220;médio&#8221;).<br />
+<br />
+Mesmo assim, o programa traz grandes momentos, principalmente ao divulgar artistas nordestinos, como Dominguinhos, Alceu Valença, Elba Ramalho, Bráulio Tavares, Flávio José, Biliu de Campina, Jackson do Pandeiro, Edmar Miguel e Abdias, sim, falam do ex-marido de Marinês que morreu no ano de 1990, dois anos antes do programa.<br />
+<br />
+É visto a Feira de Campina Grande, a cidade de Fagundes, o tradicional &#8220;Péla Poico&#8221;, que existia na Avenida Canal, o Forró do Candeeiro, além de algumas figuras conhecidas de nossa cidade: Olavo Rodrigues, ex-presidente do Treze, o cantor Tan, Saulo Florindo, ex-diretor da quadrilha Xote Menina (que aparece no programa), as Ceguinhas de Campina Grande, além da quadrilha &#8220;Virgens da Seca&#8221;.<br />
+<br />
+Lucas Azevedo era um dos idealizadores do site <a href="http://www.30diasdefesta.com.br/" target="_blank">www.30diasdefesta.com.br</a>, que retratava o maior evento da Paraíba, &#8220;O Maior São João do Mundo&#8221;, com dicas para os turistas que visitavam nossa urbe. &nbsp;</div>
+<div class='post-meta'>
+<a class='btn btn-teal' href='https://cgretalhos.blogspot.com/2017/06/25-anos-do-programa-legal-de-1992-rede.html'>Read More</a>
+<a class='comment-link' href='https://cgretalhos.blogspot.com/2017/06/25-anos-do-programa-legal-de-1992-rede.html#comment-form' onclick=''>
+4
+comentários
+</a>
+ |  
+    
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+ | 
+    <span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=2592931059274708515&postID=4930738080650364916' title='Enviar esta postagem'>
+<img alt="" class="icon-action" src="//www.blogger.com/img/icon18_email.gif">
+</a>
+</span>
+</span>
+<span class='item-control blog-admin pid-1625904335'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2592931059274708515&postID=4930738080650364916&from=pencil' title='Editar postagem'>
+<img alt="edit post" class="icon-action" src="//www.blogger.com/img/icon18_edit_allbkg.gif">
+</a>
+</span>
+</div>
+</div>
+<div class='post'>
+<div class='post-date'>
+<script type='text/javascript'>
+	  var timestamp = "terça-feira, junho 13, 2017";
+	  if (timestamp != '') {
+		var timesplit = timestamp.split(",");
+		var date_yyyy = timesplit[2];
+		var timesplit = timesplit[1].split(" ");
+		var date_dd = timesplit[2];
+		var date_mmm = timesplit[1].substring(0, 3);
+	    }
+    </script>
+<span class='month block'><script type='text/javascript'>document.write(date_mmm);</script></span>
+<span class='day'><script type='text/javascript'>document.write(date_dd);</script></span>
+</div>
+<div class='title'>
+<a name='4096797068221546346'></a>
+<h4><a href='https://cgretalhos.blogspot.com/2017/06/festas-de-santo-antonio-em-campina.html'>Festas de Santo Antonio em Campina Grande (1914)</a></h4>
+<div class='post-uncleared'>
+</div>
+</div>
+<style>.fullpost{display:none;}</style>
+<b>Por Rau Ferreira</b><br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicHdU-gpiMs4DQayUd45Yz5M_StadZYk_hv_r1zV47PRUKm-8X0UP54NeCZsztkYyvls_PhRaJCn4jcojrM2lGcSJUmeBVLYvV16uuk0oz9L9_chiy9JpGhYxC1abaO6pfjujvV3zLGxA/s1600/StoAntonio.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicHdU-gpiMs4DQayUd45Yz5M_StadZYk_hv_r1zV47PRUKm-8X0UP54NeCZsztkYyvls_PhRaJCn4jcojrM2lGcSJUmeBVLYvV16uuk0oz9L9_chiy9JpGhYxC1abaO6pfjujvV3zLGxA/s1600/StoAntonio.jpg" /></a></div>
+<div style="text-align: justify;">
+O <a href="http://cgretalhos.blogspot.com.br/2012/04/memoria-fotografica-grupo-escolar-dr.html" target="_blank">Dr. Chateaubriand Bandeira de Melo</a> exercia a medicina na serrana cidade de Campina Grande. Católico fervoroso e devoto de S. Antônio organizava anualmente a festa do seu padroeiro cuja tradição se consolidara na cidade por suas mãos. Para o ano de 1914, o médico convocara o Padre Heliodoro Pires para pregar no dia 14 de junho.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+O novenário estava a cargo do Padre Sales, estimado pároco a quem Campina devia muito. E a música seria tocada pela orquestra campinense.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+No domingo às oito, o vigário Sales celebrou missa cantada para uma grande multidão. Fez a pregação o Padre Heliodoro, sobre &#8220;Santo Antonio, como glória das tradições nacionais e modelos para o caracter nacional&#8221;.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Pelas treze horas, em casa do Dr. Chateaubriand foi realizado a entronização da imagem do Sagrado Coração, com participação de sua esposa D. Amanda. Na oportunidade, um grupo de senhoras entoou com acompanhamento de afinada orquestra o hino &#8220;Queremos Deus&#8221;.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+O encerramento da festa se deu pelas cinco horas da tarde na Igreja Matriz. Participaram deste movimento religioso o apostolado da oração, senhoras da escola campinense e alguns religiosos.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+À noite a residência do Dr. Chateaubriand foi bastante visitada.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Nascido em S. João do Cariry, formou-se em medicina pela Faculdade da Bahia. Veio residir em Campina onde montou a sua clínica e trabalhou por muitos anos.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Amigo de Irineu Jóffily realizou com o companheiro uma de suas importantes viagens pelo interior da Paraíba. Coube também ao Dr. Bandeira de Melo a oração quando da chegada do trem à Campina.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: right;">
+<i><span style="font-size: x-small;">Referências:</span></i></div>
+<div style="text-align: right;">
+<i><span style="font-size: x-small;"><br /></span></i></div>
+<div style="text-align: right;">
+<i><span style="font-size: x-small;">- A PROVÍNCIA, Jornal. Edição de 17 de junho. Recife/PE: 1914.</span></i></div>
+<div style="text-align: right;">
+<i><span style="font-size: x-small;"><br /></span></i></div>
+<div style="text-align: right;">
+<i><span style="font-size: x-small;">- ABRANCHES, Dunshee. Governos e congressos da Republica dos Estados Unidos do Brazil, Governos e congressos da Republica dos Estados Unidos do Brazil. M. Abranches: 1918.</span></i></div>
+<div style="text-align: right;">
+<i><span style="font-size: x-small;"><br /></span></i></div>
+<div style="text-align: right;">
+<i><span style="font-size: x-small;">- DIÁRIO DE PERNAMBUCO, Edição de 06 de outubro. Recife/PE: 1907</span></i></div>
+<div class='post-meta'>
+<a class='btn btn-teal' href='https://cgretalhos.blogspot.com/2017/06/festas-de-santo-antonio-em-campina.html'>Read More</a>
+<a class='comment-link' href='https://cgretalhos.blogspot.com/2017/06/festas-de-santo-antonio-em-campina.html#comment-form' onclick=''>
+3
+comentários
+</a>
+ |  
+    
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+ | 
+    <span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=2592931059274708515&postID=4096797068221546346' title='Enviar esta postagem'>
+<img alt="" class="icon-action" src="//www.blogger.com/img/icon18_email.gif">
+</a>
+</span>
+</span>
+<span class='item-control blog-admin pid-866666248'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2592931059274708515&postID=4096797068221546346&from=pencil' title='Editar postagem'>
+<img alt="edit post" class="icon-action" src="//www.blogger.com/img/icon18_edit_allbkg.gif">
+</a>
+</span>
+</div>
+</div>
+<div class='post'>
+<div class='post-date'>
+<script type='text/javascript'>
+	  var timestamp = "segunda-feira, junho 12, 2017";
+	  if (timestamp != '') {
+		var timesplit = timestamp.split(",");
+		var date_yyyy = timesplit[2];
+		var timesplit = timesplit[1].split(" ");
+		var date_dd = timesplit[2];
+		var date_mmm = timesplit[1].substring(0, 3);
+	    }
+    </script>
+<span class='month block'><script type='text/javascript'>document.write(date_mmm);</script></span>
+<span class='day'><script type='text/javascript'>document.write(date_dd);</script></span>
+</div>
+<div class='title'>
+<a name='4260386870668928278'></a>
+<h4><a href='https://cgretalhos.blogspot.com/2010/06/cronograma-historico-dos-festejos.html'>Cronograma Histórico dos Festejos Juninos em Campina Grande</a></h4>
+<div class='post-uncleared'>
+</div>
+</div>
+<style>.fullpost{display:none;}</style>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="//3.bp.blogspot.com/_Irc0MonzA2E/TCIAgqVAxCI/AAAAAAAABEk/wfBcwfuNiHQ/s1600/SaoJoaoDeCampina.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="454" src="https://3.bp.blogspot.com/_Irc0MonzA2E/TCIAgqVAxCI/AAAAAAAABEk/wfBcwfuNiHQ/s640/SaoJoaoDeCampina.jpg" width="640" /></a></div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+1983 - A festa era realizada no Palhoção do Forró: inicia a consolidação do São João de Campina Grande como o maior de todo o país; A primeira festa junina no Palhoção do Forró, núcleo do futuro Parque do Povo e do Maior São João do Mundo, aconteceu em 1983. Houve 113 quadrilhas, casamento matuto, desfile de carroça. Quadrilhas destaques: a da Rua da Floresta e a Xote Menina. O sanfoneiro Sivuca é atração do Forró Entra e Sai do Campinense Clube. As vendas no período crescem 100%.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+1984 - A festa de São João de Campina é inscrita no Calendário da Embratur; Surge nessa época a Quadrilha Virgens da Seca, de homens vestidos de mulher. O cantor Capilé lança nesse ano o hino do Maior São do Mundo.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+1985 - Campina ingressa na era das grandes casas de show, com a inauguração do Forrock, com apresentações de Luiz Gonzaga, Dominguinhos, Elba Ramalho e outros.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+1986 - É inaugurado o Parque do Povo, a grande área de lazer com destaque para a Pirâmide do Forró, batizada Forródromo. Marinês retorna aos palcos campinenses no Forrock. </div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+1987 - É marcado pelo nascimento do filho de Elba Ramalho, Luan, em plena festa junina campinense. Zé Calixto, mestre da sanfona de oito baixos, recebe Medalha de Honra pelos 25 anos de carreira.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+1988 - O passeio "Forroviário" foi criado. Em junho desse ano, Luiz Gonzaga realizou o seu derradeiro show em Campina Grande. </div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+1989 - O comércio campinense atinge recordes de vendas. Com o aumento do fluxo de turistas são inaugurados novos hotéis na cidade.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+1991 - A cantora Marinês comemora os seus 40 anos de carreira na festa junina campinense;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+1992 - A festa de São João de Campina atinge consagração nacional, com a gravação de um clipe da cantora Elba Ramalho para o horário nobre do Fantástico da TV Globo. A Quadrilha Virgens da Seca aparece em quadro do programa da apresentadora Regina Casé. O Museu Luiz Gonzaga é instalado no Parque do Povo, nesse ano.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+1993 - Acontece A Noite dos 8 Baixos, no palco do Parque do Povo, com a participação da família Calixto, com Zé e Geraldo Correia.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Ainda nos anos 90 do século passado, o Parque do Povo recebe a infraestrutura básica que permanece até hoje, como a ampliação do Arraial Hilton Motta, que possibilitou a criação da cidade cenográfica com prédios históricos campinenses, a implantação da cidadezinha cenográfica Vila Nova da Rainha, dispondo artesanato, cantador de viola, cordelista.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+O Sítio São João e as Ilhas de Forró, os locais de trio de forró-pé-de serra, são ampliações marcantes do "quartel general" da folia campinense daquela decada. Os prefeitos de Campina Grande, sucessores dos fundadores do Maior São João do Mundo, fizeram modificações menores na estrutura da festa, no layout seu, nas atrações e acréscimos de alguns eventos.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+2007 - O Sítio São João é desmembrado do Parque do Povo;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+2009 - Realizada primeira grande obra de recuperação da Pirâmide do Parque do Povo, um dos locais populares mais encantadores da festa; </div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+2010 - Este ano o Maior São João do Mundo tem uma das programações artísticas mais arrojadas, conciliando o forró tradicional e o forró banda.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: right;">
+<span style="font-size: x-small;"><i>Fonte Pesquisada: Jornal A União "Especial Campina", 29 de Maio de 2009 </i></span></div>
+<div class='post-meta'>
+<a class='btn btn-teal' href='https://cgretalhos.blogspot.com/2010/06/cronograma-historico-dos-festejos.html'>Read More</a>
+<a class='comment-link' href='https://cgretalhos.blogspot.com/2010/06/cronograma-historico-dos-festejos.html#comment-form' onclick=''>
+ 1 Comment
+      
+</a>
+ |  
+    
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+ | 
+    <span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=2592931059274708515&postID=4260386870668928278' title='Enviar esta postagem'>
+<img alt="" class="icon-action" src="//www.blogger.com/img/icon18_email.gif">
+</a>
+</span>
+</span>
+<span class='item-control blog-admin pid-866666248'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2592931059274708515&postID=4260386870668928278&from=pencil' title='Editar postagem'>
+<img alt="edit post" class="icon-action" src="//www.blogger.com/img/icon18_edit_allbkg.gif">
+</a>
+</span>
+</div>
+</div>
+<div class='post'>
+<div class='post-date'>
+<script type='text/javascript'>
+	  var timestamp = "sexta-feira, junho 09, 2017";
+	  if (timestamp != '') {
+		var timesplit = timestamp.split(",");
+		var date_yyyy = timesplit[2];
+		var timesplit = timesplit[1].split(" ");
+		var date_dd = timesplit[2];
+		var date_mmm = timesplit[1].substring(0, 3);
+	    }
+    </script>
+<span class='month block'><script type='text/javascript'>document.write(date_mmm);</script></span>
+<span class='day'><script type='text/javascript'>document.write(date_dd);</script></span>
+</div>
+<div class='title'>
+<a name='8806376088811504859'></a>
+<h4><a href='https://cgretalhos.blogspot.com/2017/06/o-caveirao-fabricado-em-campina-grande.html'>O 'Caveirão' Fabricado em Campina Grande (1930)</a></h4>
+<div class='post-uncleared'>
+</div>
+</div>
+<style>.fullpost{display:none;}</style>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="//4.bp.blogspot.com/-axNd2kvFbHg/Tkpkg2oADXI/AAAAAAAABr0/-rtqEmmLGos/s1600/Tanque1930.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="388" src="https://4.bp.blogspot.com/-axNd2kvFbHg/Tkpkg2oADXI/AAAAAAAABr0/-rtqEmmLGos/s640/Tanque1930.jpg" width="640" /></a></div>
+<br />
+<div style="text-align: justify;">
+Existe uma máxima do nosso folclore local sobre a possibilidade de se encontrar de tudo no Bairro de José Pinheiro, onde o exagero da ironia diz que &#8220;lá se fabrica até avião&#8221;.</div>
+<div style="text-align: justify;">
+<br />
+Pois bem, Campina Grande em sua rota geográfica de acesso ao Sertão do Estado, teve sua &#8216;participação&#8217; na Revolta de Princesa (1929) como local onde fora fabricado um carro-tanque para atuar no avanço das tropas do Governo do Estado no ataque à cidade de Princesa Isabel, no confronto particular entre o ex-presidente João Pessoa e o líder político local Cel. José Pereira.</div>
+<div style="text-align: justify;">
+<br />
+O tanque seria uma espécie de &#8216;Caveirão&#8217; utilizado pelo BOPE da PM do Rio de Janeiro, o qual proporcionaria a entrada da esquadra estadual com segurança por entre as forças do Cel. Zé Pereira, equipadas com forte e moderno equipamento militar!</div>
+<div style="text-align: justify;">
+<br />
+A foto acima registra o dia em que a encomenda&nbsp; fora entregue, enviado imediatamente à zona de combate. Porém, no caminho, o veículo enguiçou e nenhum esforço o fez seguir seu destino e o mesmo retornou rebocado para Campina Grande, tendo sua eficiência desacreditada e, portanto, nunca utilizado para os fins desejados.</div>
+<br />
+<div style="text-align: right;">
+<span style="font-size: x-small;"><i>Fonte Consultada:<br />
+Anuário Campina Grande, 1982</i></span></div>
+<br />
+<div class='post-meta'>
+<a class='btn btn-teal' href='https://cgretalhos.blogspot.com/2017/06/o-caveirao-fabricado-em-campina-grande.html'>Read More</a>
+<a class='comment-link' href='https://cgretalhos.blogspot.com/2017/06/o-caveirao-fabricado-em-campina-grande.html#comment-form' onclick=''>
+11
+comentários
+</a>
+ |  
+    
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+ | 
+    <span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=2592931059274708515&postID=8806376088811504859' title='Enviar esta postagem'>
+<img alt="" class="icon-action" src="//www.blogger.com/img/icon18_email.gif">
+</a>
+</span>
+</span>
+<span class='item-control blog-admin pid-866666248'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2592931059274708515&postID=8806376088811504859&from=pencil' title='Editar postagem'>
+<img alt="edit post" class="icon-action" src="//www.blogger.com/img/icon18_edit_allbkg.gif">
+</a>
+</span>
+</div>
+</div>
+<div class='post'>
+<div class='post-date'>
+<script type='text/javascript'>
+	  var timestamp = "sexta-feira, junho 02, 2017";
+	  if (timestamp != '') {
+		var timesplit = timestamp.split(",");
+		var date_yyyy = timesplit[2];
+		var timesplit = timesplit[1].split(" ");
+		var date_dd = timesplit[2];
+		var date_mmm = timesplit[1].substring(0, 3);
+	    }
+    </script>
+<span class='month block'><script type='text/javascript'>document.write(date_mmm);</script></span>
+<span class='day'><script type='text/javascript'>document.write(date_dd);</script></span>
+</div>
+<div class='title'>
+<a name='5998910953231866960'></a>
+<h4><a href='https://cgretalhos.blogspot.com/2017/06/memoria-o-parque-do-povo.html'>Memória: O Parque do Povo</a></h4>
+<div class='post-uncleared'>
+</div>
+</div>
+<style>.fullpost{display:none;}</style>
+<div style="text-align: justify;">
+Os mais antigos lembram bem, já os mais novos, talvez tenham a curiosidade em saber como era o espaço em que se localiza atualmente o Parque do Povo, antes de sua construção. Nas fotos abaixo, um pouco da&nbsp; curiosidade é saciada.</div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv4EEYQ1sZnP6dFXgTmukSDBS9bXGmyVXqBjqHZef7rTXOuxgQ-g3pATpYaSJXA29UP3Ha-9wahrUVH9TvkBtP7QiTx9bNip9bTj5gS0dQ03QgbgcGgIs8HpDgtbqPR2oFoU8pb9MUYQA/s1600-h/preparquedopovo2.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" sr="true" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv4EEYQ1sZnP6dFXgTmukSDBS9bXGmyVXqBjqHZef7rTXOuxgQ-g3pATpYaSJXA29UP3Ha-9wahrUVH9TvkBtP7QiTx9bNip9bTj5gS0dQ03QgbgcGgIs8HpDgtbqPR2oFoU8pb9MUYQA/s640/preparquedopovo2.JPG" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvmjDac4eOMUfdJ5er_s3LKK341DnAHSfrZDDXeMqecdDrgxMdbjPp9JZkFAKpOnQqOW5tOzx2MJR-TOdqb8wCMF_GQiVgMzgngEyLanUfh86bL4uYxVSHj7-tRfCbIFeRxlMaK3TIjz8/s1600-h/preparquedopovo1.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" sr="true" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvmjDac4eOMUfdJ5er_s3LKK341DnAHSfrZDDXeMqecdDrgxMdbjPp9JZkFAKpOnQqOW5tOzx2MJR-TOdqb8wCMF_GQiVgMzgngEyLanUfh86bL4uYxVSHj7-tRfCbIFeRxlMaK3TIjz8/s640/preparquedopovo1.JPG" /></a><br />
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Antigamente o local era chamado de &#8220;Coqueiros de Zé Rodrigues&#8221;. No período de São João, os campinenses realizavam naquele local, alegres quadrilhas e principalmente, saboreavam as comidas e bebidas típicas.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Enivaldo Ribeiro deu o primeiro passo para a futura sede do forró campinense. Logo após, foi a vez de Ronaldo Cunha Lima, que teve a idéia de &#8220;profissionalizar&#8221; o evento ali existente, construindo um monumento em forma de pirâmide (muito em voga nos anos 80) e o batizando de &#8220;Forródromo&#8221;. O local foi projetado pelo arquiteto Carlos Alberto de Almeida, sendo construído pela Enarq.</div>
+<div style="text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx3BK1YOHTCY_As8wOVBttqYIuoNsuijwpatGhmwIMlq226BNhaT-WtELjoU46rPrWtCoAfhm7kuTMAkaE2KCXZbj8PqUFCgmEQHT9zqLoxWSpU1-4l1bCW3Tg6jz4N7TQu_4xTdR_i-Q/s1600-h/preparquedopovo3.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" sr="true" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx3BK1YOHTCY_As8wOVBttqYIuoNsuijwpatGhmwIMlq226BNhaT-WtELjoU46rPrWtCoAfhm7kuTMAkaE2KCXZbj8PqUFCgmEQHT9zqLoxWSpU1-4l1bCW3Tg6jz4N7TQu_4xTdR_i-Q/s640/preparquedopovo3.JPG" /></a></div>
+<div style="text-align: center;">
+<span style="color: yellow; font-size: x-small;"><i>Construção da Pirâmide</i></span></div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Assim, o Parque do Povo seria inaugurado em 14 de maio de 1986 e no dia 31, seria o palco da festa que consagraria Campina Grande nacionalmente, o chamado &#8220;Maior São João do Mundo&#8221;.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+No dia de sua inauguração, não é preciso dizer que o local estava superlotado. Segundo o Diário da Borborema de 03 de junho de 1986, <i>&#8220;Ronaldo Cunha Lima chegou ao Parque do Povo por volta das 21h, acompanhado do senador Humberto Lucena, do deputado estadual José Maranhão, João Agripino Neto e outras autoridades. A multidão já esperava o poeta para fazer a festa. Uma girândola anunciou o início dos festejos juninos&#8221;.</i></div>
+<div style="text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcgLVX64yvsit-auAnp_6Fms8NkcP2gft0G17gWWENfG7AV6fhXpTrx68X3udrk6QphAUh7zpaxsO5MmhHqfU-YEpLF8s4mqHImqY7_l2XqIh7CNMxlSRbb_5Fx1jAw7yzeFtOTVTC-HQ/s1600-h/preparquedopovo0.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" sr="true" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcgLVX64yvsit-auAnp_6Fms8NkcP2gft0G17gWWENfG7AV6fhXpTrx68X3udrk6QphAUh7zpaxsO5MmhHqfU-YEpLF8s4mqHImqY7_l2XqIh7CNMxlSRbb_5Fx1jAw7yzeFtOTVTC-HQ/s640/preparquedopovo0.JPG" /></a></div>
+<div style="text-align: center;">
+<i><span style="color: yellow; font-size: x-small;">Inauguração</span></i><br />
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7aFZhRk4hWnfLDA-Wn813EwlyVt-UWOyGe3VM_cyMABXnU9L6t1YpigWL2m8AQBbeLVR3rEWs6IMQshuDNSjpTCm5p-L2oTRs9F-LU8wq_-NCqLbiSTDL2WPex5F3M9Q39HUKnf9dKmE/s1600-h/RonaldoCunhaLimaSaoJoao.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" sr="true" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7aFZhRk4hWnfLDA-Wn813EwlyVt-UWOyGe3VM_cyMABXnU9L6t1YpigWL2m8AQBbeLVR3rEWs6IMQshuDNSjpTCm5p-L2oTRs9F-LU8wq_-NCqLbiSTDL2WPex5F3M9Q39HUKnf9dKmE/s640/RonaldoCunhaLimaSaoJoao.jpg" /></a></div>
+<div style="text-align: center;">
+<span style="color: yellow; font-size: x-small;"><i>Ronaldo Cunha Lima, o criador do Parque do Povo</i></span></div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+O&nbsp;evento cresceu, atraiu as atenções de todo o Brasil, entrou para o calendário oficial de eventos brasileiros e tornou Campina Grande conhecida internacionalmente.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: center;">
+<br /></div>
+<div class="separator" style="border-bottom: medium none; border-left: medium none; border-right: medium none; border-top: medium none; clear: both; text-align: center;">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5LiEABafxVOjMGtf6syPyUTIJJqGnA_ibZ1GlZhLZNV0rM3reRnbqFyWUmJqMMrKbV8NRfaFSbcEJkFb_mjdgp1U_hsC64rXe-4QJuHHHochfgReD48czH_mw8ihGkGwlEtTjeUsvPG8/s1600-h/parquedopovo1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" sr="true" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5LiEABafxVOjMGtf6syPyUTIJJqGnA_ibZ1GlZhLZNV0rM3reRnbqFyWUmJqMMrKbV8NRfaFSbcEJkFb_mjdgp1U_hsC64rXe-4QJuHHHochfgReD48czH_mw8ihGkGwlEtTjeUsvPG8/s200/parquedopovo1.jpg" /></a><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdxXLc0qdYdThyl-YWFxF2sWDA7dpMI-jwZzRVot1BGBbBre6KxGD2ANbORwlJxM-FqfkxPzjwegrEJ0HBmHLL_tdsJ6hRMGP9eK8b8LUF844lqjkiaBPoC0M-NOpANM8uXzeStSfNZuI/s1600-h/parquedopovo2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" sr="true" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdxXLc0qdYdThyl-YWFxF2sWDA7dpMI-jwZzRVot1BGBbBre6KxGD2ANbORwlJxM-FqfkxPzjwegrEJ0HBmHLL_tdsJ6hRMGP9eK8b8LUF844lqjkiaBPoC0M-NOpANM8uXzeStSfNZuI/s200/parquedopovo2.jpg" /></a></div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Desta forma, desde 1986 o Parque do Povo entrou para a história de Campina Grande, sendo utilizado para todos os grandes eventos da cidade, como a Micarande, Feira de Automóveis, Encontros Cristãos, além é claro, pelo próprio São João.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<b>Fontes Utilizadas:</b></div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Reprodução de imagens da TV Paraíba</div>
+<div style="text-align: justify;">
+Diário da Borborema</div>
+<div style="text-align: justify;">
+Arquivos Pessoais</div>
+<div style="text-align: justify;">
+Comunidade de Campina Grande no Orkut (Fotos)</div>
+<div class='post-meta'>
+<a class='btn btn-teal' href='https://cgretalhos.blogspot.com/2017/06/memoria-o-parque-do-povo.html'>Read More</a>
+<a class='comment-link' href='https://cgretalhos.blogspot.com/2017/06/memoria-o-parque-do-povo.html#comment-form' onclick=''>
+23
+comentários
+</a>
+ |  
+    
+<span class='post-backlinks post-comment-link'>
+</span>
+<span class='post-icons'>
+ | 
+    <span class='item-action'>
+<a href='https://www.blogger.com/email-post.g?blogID=2592931059274708515&postID=5998910953231866960' title='Enviar esta postagem'>
+<img alt="" class="icon-action" src="//www.blogger.com/img/icon18_email.gif">
+</a>
+</span>
+</span>
+<span class='item-control blog-admin pid-1625904335'>
+<a href='https://www.blogger.com/post-edit.g?blogID=2592931059274708515&postID=5998910953231866960&from=pencil' title='Editar postagem'>
+<img alt="edit post" class="icon-action" src="//www.blogger.com/img/icon18_edit_allbkg.gif">
+</a>
+</span>
+</div>
+</div>
+<!--Can't find substitution for tag [adEnd]-->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='https://cgretalhos.blogspot.com/search?updated-max=2017-08-25T08:50:00-03:00&amp;max-results=10&amp;reverse-paginate=true' id='Blog1_blog-pager-newer-link' title='Postagens mais recentes'>Postagens mais recentes</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='https://cgretalhos.blogspot.com/search?updated-max=2017-06-02T09:51:00-03:00&amp;max-results=10' id='Blog1_blog-pager-older-link' title='Postagens mais antigas'>Postagens mais antigas</a>
+</span>
+<a class='home-link' href='https://cgretalhos.blogspot.com/'>Página inicial</a>
+</div>
+</div></div>
+</div>
+<div id='sidebar-wrapper'>
+<div class='sidebar section' id='sidebar'><div class='widget Image' data-version='1' id='Image1'>
+<div class='widget-content'>
+<img alt='' height='225' id='Image1_img' src='//2.bp.blogspot.com/-8fEySaSgrAc/XV0sKa954DI/AAAAAAAAOz4/M_Pg7JLQNgcNt06E2nLCq624WhDnSaa7wCK4BGAYYCw/s242/21082019b.jpg' width='242'/>
+<br/>
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML2'>
+<div class='widget-content'>
+<style></style>
+<div>
+<a onclick="window.open(&#39;http://translate.google.com/translate?u=&#39;+encodeURIComponent(location.href)+&#39;&amp;langpair=pt%7Cen&amp;hl=en&#39;); return false;" class="google_translate" href="//www.blogger.com/rearrange?blogID=7111625801684955521&amp;action=editWidget&amp;sectionId=crosscol&amp;widgetType=HTML&amp;widgetId=HTML4#" target="_blank" rel="nofollow" title="English"><img alt="English" title="English" src="//lh6.ggpht.com/_pt7i0nbIOCY/SWwjycGEnLI/AAAAAAAAA1o/7p6S3-tipsA/English_thumb%5B3%5D.png?imgmax=800" style="cursor: pointer; margin-right: 13px;" height="32" align="absbottom" border="0" width="24"></a>
+<a onclick="window.open(&#39;http://translate.google.com/translate?u=&#39;+encodeURIComponent(location.href)+&#39;&amp;langpair=pt%7Cfr&amp;hl=en&#39;); return false;" class="google_translate" href="//www.blogger.com/rearrange?blogID=7111625801684955521&amp;action=editWidget&amp;sectionId=crosscol&amp;widgetType=HTML&amp;widgetId=HTML4#" target="_blank" rel="nofollow" title="French"><img alt="French" title="French" src="//lh3.ggpht.com/_pt7i0nbIOCY/SWwj1AdOWZI/AAAAAAAAA1w/lWUkGNrOFYo/French_thumb%5B5%5D.png?imgmax=800" style="cursor: pointer; margin-right: 13px;" height="32" align="absbottom" border="0" width="24"></a>
+<a onclick="window.open(&#39;http://translate.google.com/translate?u=&#39;+encodeURIComponent(location.href)+&#39;&amp;langpair=pt%7Cde&amp;hl=en&#39;); return false;" class="google_translate" href="//www.blogger.com/rearrange?blogID=7111625801684955521&amp;action=editWidget&amp;sectionId=crosscol&amp;widgetType=HTML&amp;widgetId=HTML4#" target="_blank" rel="nofollow" title="German"><img alt="German" title="German" src="//lh5.ggpht.com/_pt7i0nbIOCY/SWwj4Ab0NaI/AAAAAAAAA14/3H56LPKtijA/German_thumb%5B1%5D.png?imgmax=800" style="cursor: pointer; margin-right: 13px;" height="32" align="absbottom" border="0" width="24"></a>
+<a onclick="window.open(&#39;http://translate.google.com/translate?u=&#39;+encodeURIComponent(location.href)+&#39;&amp;langpair=pt%7Ces&amp;hl=en&#39;); return false;" class="google_translate" href="//www.blogger.com/rearrange?blogID=7111625801684955521&amp;action=editWidget&amp;sectionId=crosscol&amp;widgetType=HTML&amp;widgetId=HTML4#" target="_blank" rel="nofollow" title="Spain"><img alt="Spain" title="Spain" src="//lh3.ggpht.com/_pt7i0nbIOCY/SWwj8KhadjI/AAAAAAAAA2A/GNyl8VBie3o/Spain_thumb%5B1%5D.png?imgmax=800" style="cursor: pointer; margin-right: 13px;" height="32" align="absbottom" border="0" width="24"></a>
+<a onclick="window.open(&#39;http://translate.google.com/translate?u=&#39;+encodeURIComponent(location.href)+&#39;&amp;langpair=pt%7Cit&amp;hl=en&#39;); return false;" class="google_translate" href="//www.blogger.com/rearrange?blogID=7111625801684955521&amp;action=editWidget&amp;sectionId=crosscol&amp;widgetType=HTML&amp;widgetId=HTML4#" target="_blank" rel="nofollow" title="Italian"><img alt="Italian" title="Italian" src="//lh3.ggpht.com/_pt7i0nbIOCY/SWwj-14HeyI/AAAAAAAAA2I/TN52dIqkO9Q/Italian_thumb%5B1%5D.png?imgmax=800" style="cursor: pointer; margin-right: 13px;" height="32" align="absbottom" border="0" width="24"></a>
+<a onclick="window.open(&#39;http://translate.google.com/translate?u=&#39;+encodeURIComponent(location.href)+&#39;&amp;langpair=pt%7Cnl&amp;hl=en&#39;); return false;" class="google_translate" href="//www.blogger.com/rearrange?blogID=7111625801684955521&amp;action=editWidget&amp;sectionId=crosscol&amp;widgetType=HTML&amp;widgetId=HTML4#" target="_blank" rel="nofollow" title="Dutch"><img alt="Dutch" title="Dutch" src="//lh5.ggpht.com/_pt7i0nbIOCY/SWwkBmKewNI/AAAAAAAAA2Q/43NEAnyNo1I/Dutch_thumb%5B1%5D.png?imgmax=800" style="cursor: pointer; margin-right: 13px;" height="32" align="absbottom" border="0" width="24"></a>
+<a onclick="window.open(&#39;http://translate.google.com/translate?u=&#39;+encodeURIComponent(location.href)+&#39;&amp;langpair=pt%7Cru&amp;hl=en&#39;); return false;" class="google_translate" href="//www.blogger.com/rearrange?blogID=7111625801684955521&amp;action=editWidget&amp;sectionId=crosscol&amp;widgetType=HTML&amp;widgetId=HTML4#" target="_blank" rel="nofollow" title="Russian"><img alt="Russian" title="Russian" src="//lh4.ggpht.com/_pt7i0nbIOCY/SWwkESa-0pI/AAAAAAAAA2Y/i0X4cKgxq3g/Russian_thumb%5B1%5D.png?imgmax=800" style="cursor: pointer; margin-right: 13px;" height="32" align="absbottom" border="0" width="24"></a>
+<a onclick="window.open(&#39;http://translate.google.com/translate?u=&#39;+encodeURIComponent(location.href)+&#39;&amp;langpair=pt%7Cpt&amp;hl=en&#39;); return false;" class="google_translate" href="//www.blogger.com/rearrange?blogID=7111625801684955521&amp;action=editWidget&amp;sectionId=crosscol&amp;widgetType=HTML&amp;widgetId=HTML4#" target="_blank" rel="nofollow" title="Portuguese"><img alt="Portuguese" title="Portuguese" src="//lh4.ggpht.com/_pt7i0nbIOCY/SWwkG0osjzI/AAAAAAAAA2g/_kM2A16R_Ho/Portuguese_thumb%5B1%5D.png?imgmax=800" style="cursor: pointer; margin-right: 13px;" height="32" align="absbottom" border="0" width="24"></a>
+<a onclick="window.open(&#39;http://translate.google.com/translate?u=&#39;+encodeURIComponent(location.href)+&#39;&amp;langpair=pt%7Cja&amp;hl=en&#39;); return false;" class="google_translate" href="//www.blogger.com/rearrange?blogID=7111625801684955521&amp;action=editWidget&amp;sectionId=crosscol&amp;widgetType=HTML&amp;widgetId=HTML4#" target="_blank" rel="nofollow" title="Japanese"><img alt="Japanese" title="Japanese" src="//lh5.ggpht.com/_pt7i0nbIOCY/SWwkJ6RBJAI/AAAAAAAAA2o/lpsTh893J3k/Japanese_thumb%5B1%5D.png?imgmax=800" style="cursor: pointer; margin-right: 13px;" height="32" align="absbottom" border="0" width="24"></a>
+<a onclick="window.open(&#39;http://translate.google.com/translate?u=&#39;+encodeURIComponent(location.href)+&#39;&amp;langpair=pt%7Cko&amp;hl=en&#39;); return false;" class="google_translate" href="//www.blogger.com/rearrange?blogID=7111625801684955521&amp;action=editWidget&amp;sectionId=crosscol&amp;widgetType=HTML&amp;widgetId=HTML4#" target="_blank" rel="nofollow" title="Korean"><img alt="Korean" title="Korean" src="//lh4.ggpht.com/_pt7i0nbIOCY/SWwkMouNMKI/AAAAAAAAA2w/L5l6J-Hh8XA/Korean_thumb%5B1%5D.png?imgmax=800" style="cursor: pointer; margin-right: 13px;" height="32" align="absbottom" border="0" width="24"></a>
+<a onclick="window.open(&#39;http://translate.google.com/translate?u=&#39;+encodeURIComponent(location.href)+&#39;&amp;langpair=pt%7Car&amp;hl=en&#39;); return false;" class="google_translate" href="//www.blogger.com/rearrange?blogID=7111625801684955521&amp;action=editWidget&amp;sectionId=crosscol&amp;widgetType=HTML&amp;widgetId=HTML4#" target="_blank" rel="nofollow" title="Arabic"><img alt="Arabic" title="Arabic" src="//lh5.ggpht.com/_pt7i0nbIOCY/SWwkPdkvXBI/AAAAAAAAA24/A1LSG1lcuac/Arabic_thumb%5B1%5D.png?imgmax=800" style="cursor: pointer; margin-right: 13px;" height="32" align="absbottom" border="0" width="24"></a>
+<a onclick="window.open(&#39;http://translate.google.com/translate?u=&#39;+encodeURIComponent(location.href)+&#39;&amp;langpair=pt%7Czh-CN&amp;hl=en&#39;); return false;" class="google_translate" href="//www.blogger.com/rearrange?blogID=7111625801684955521&amp;action=editWidget&amp;sectionId=crosscol&amp;widgetType=HTML&amp;widgetId=HTML4#" target="_blank" rel="nofollow" title="Chinese Simplified"><img alt="Chinese Simplified" title="Chinese Simplified" src="//lh6.ggpht.com/_pt7i0nbIOCY/SWwkSgrv4ZI/AAAAAAAAA3A/jQqZ1l6avts/Chinese-Simplified_thumb%5B1%5D.png?imgmax=800" style="cursor: pointer; margin-right: 13px;" height="32" align="absbottom" border="0" width="24"></a>
+</div>
+</div>
+<div class='clear'></div>
+</div><div class='widget Image' data-version='1' id='Image5'>
+<div class='widget-content'>
+<img alt='' height='217' id='Image5_img' src='//3.bp.blogspot.com/-SnljVfbWJiY/XeECllmJnBI/AAAAAAAAQ6c/bs1h1PhTu_g5mKq0DpL7jEI3gmGZlYAsQCK4BGAYYCw/s242/0_1_Follow.jpg' width='242'/>
+<br/>
+</div>
+<div class='clear'></div>
+</div><div class='widget Image' data-version='1' id='Image3'>
+<div class='widget-content'>
+<img alt='' height='89' id='Image3_img' src='//3.bp.blogspot.com/_Irc0MonzA2E/TAuyF1eu8VI/AAAAAAAABCM/Xls5LbNyFUg/S1600-R/tipo.JPG' width='211'/>
+<br/>
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML11'>
+<h2 class='title'>HINO OFICIAL DE CAMPINA GRANDE</h2>
+<div class='widget-content'>
+<center><iframe width="200" height="150" src="//www.youtube.com/embed/ptiDl2gsFDo?rel=0" frameborder="0" allowfullscreen=""></iframe></center>
+</div>
+<div class='clear'></div>
+</div><div class='widget Text' data-version='1' id='Text3'>
+<div class='widget-content'>
+<div>Letra: Fernando Silveira</div><div>Música: Antonio Guimarães</div>Versão: Kátia Virgínia e Gabmar Cavalcante<div><br/></div>
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML10'>
+<div class='widget-content'>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4ff74876592e53af"></script>
+<!-- AddThis Button END -->
+</div>
+<div class='clear'></div>
+</div><div class='widget Image' data-version='1' id='Image2'>
+<div class='widget-content'>
+<a href='http://www.facebook.com/BlogRHCG'>
+<img alt='' height='28' id='Image2_img' src='//1.bp.blogspot.com/-ye60IoPEphA/T9nHbkCztDI/AAAAAAAACVc/IGjhDQg9rKs/s250/Curtir1.jpg' width='250'/>
+</a>
+<br/>
+</div>
+<div class='clear'></div>
+</div><div class='widget PageList' data-version='1' id='PageList1'>
+<div class='widget-content'>
+<ul>
+<li>
+<a href='https://cgretalhos.blogspot.com/'>* INÍCIO</a>
+</li>
+<li>
+<a href='https://cgretalhos.blogspot.com/p/quem-somos.html'>* QUEM SOMOS</a>
+</li>
+<li>
+<a href='https://cgretalhos.blogspot.com/p/colaboradores-da-historia.html'>* COLABORADORES DA HISTÓRIA</a>
+</li>
+<li>
+<a href='https://cgretalhos.blogspot.com/p/dicas-para-navegacao.html'>* DICAS PARA NAVEGAÇÃO</a>
+</li>
+<li>
+<a href='https://cgretalhos.blogspot.com/p/artigos-dos-leitores.html'>* ARTIGOS DOS LEITORES</a>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div><div class='widget Text' data-version='1' id='Text2'>
+<h2 class='title'>Colabore Conosco!</h2>
+<div class='widget-content'>
+A História é Feita de Registros e Memórias!<br/>Colabore com nosso resgate nos enviando fotos, áudios, vídeos, etc... Fatos que remetam ao pretérito campinense.<br/>Teremos prazer em citar quem nos enviar.<br/><span style="font-weight: bold;">(retalhoscg@hotmail.com)</span><br/>
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML6'>
+<div class='widget-content'>
+<center><iframe src="http://selos.climatempo.com.br/selos/MostraSelo.php?CODCIDADE=255&amp;SKIN=preto" marginheight="0" marginwidth="0" frameborder="0" height="170" scrolling="no" width="150"></iframe></center>
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML7'>
+<div class='widget-content'>
+<div class="fb-like-box" data-href="http://www.facebook.com/pages/Retalhos-Hist%C3%B3ricos-de-Campina-Grande/221375924569137" data-width="240" data-height="500" data-show-faces="true" data-stream="false" data-header="true"></div>
+</div>
+<div class='clear'></div>
+</div><div class='widget Label' data-version='1' id='Label1'>
+<h2>Textos Relacionados</h2>
+<div class='widget-content list-label-widget-content'>
+<ul>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/2%C2%BA%20BPM'>2º BPM</a>
+<span dir='ltr'>(9)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/A%C3%87UDES'>AÇUDES</a>
+<span dir='ltr'>(11)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/ALBUM%20DE%20FAMILIA'>ALBUM DE FAMILIA</a>
+<span dir='ltr'>(7)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/ANTES%20E%20DEPOIS'>ANTES E DEPOIS</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/ARTIGOS'>ARTIGOS</a>
+<span dir='ltr'>(28)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/ATUALIDADE'>ATUALIDADE</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/%C3%81UDIOS'>ÁUDIOS</a>
+<span dir='ltr'>(86)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/BAIRROS'>BAIRROS</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/BANDEIRA'>BANDEIRA</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/BICG'>BICG</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/BIOGRAFIAS'>BIOGRAFIAS</a>
+<span dir='ltr'>(9)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/BLOGRHCG'>BLOGRHCG</a>
+<span dir='ltr'>(17)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/CAMPINENSE%20CLUB'>CAMPINENSE CLUB</a>
+<span dir='ltr'>(35)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/CAPITOLIO'>CAPITOLIO</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/CARNAVAL'>CARNAVAL</a>
+<span dir='ltr'>(27)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/CEMIT%C3%89RIO'>CEMITÉRIO</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/CENTRO'>CENTRO</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/CG%20150%20Anos'>CG 150 Anos</a>
+<span dir='ltr'>(6)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/CG%20153%20Anos'>CG 153 Anos</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/CG%20155%20Anos'>CG 155 Anos</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/CINEMA'>CINEMA</a>
+<span dir='ltr'>(6)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/COLABORADORES'>COLABORADORES</a>
+<span dir='ltr'>(320)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/COMUNICA%C3%87%C3%83O'>COMUNICAÇÃO</a>
+<span dir='ltr'>(45)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/CONSTRU%C3%87%C3%95ES'>CONSTRUÇÕES</a>
+<span dir='ltr'>(36)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/CONTOS'>CONTOS</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/CR%C3%94NICAS'>CRÔNICAS</a>
+<span dir='ltr'>(14)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/CULTURA'>CULTURA</a>
+<span dir='ltr'>(51)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/CURIOSIDADES'>CURIOSIDADES</a>
+<span dir='ltr'>(89)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/DESFILE%20C%C3%8DVICO'>DESFILE CÍVICO</a>
+<span dir='ltr'>(16)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/DIVULGA%C3%87%C3%83O'>DIVULGAÇÃO</a>
+<span dir='ltr'>(39)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/DOCUMENT%C3%81RIOS'>DOCUMENTÁRIOS</a>
+<span dir='ltr'>(17)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/DOCUMENTOS%20HISTORICOS'>DOCUMENTOS HISTORICOS</a>
+<span dir='ltr'>(32)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/EDUCA%C3%87%C3%83O'>EDUCAÇÃO</a>
+<span dir='ltr'>(11)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/ELO%20PERDIDO'>ELO PERDIDO</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/ELP%C3%8DDIO%20DE%20ALMEIDA'>ELPÍDIO DE ALMEIDA</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/ESPECIAL'>ESPECIAL</a>
+<span dir='ltr'>(120)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/ESPECIAL%20MARIN%C3%8AS'>ESPECIAL MARINÊS</a>
+<span dir='ltr'>(10)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/ESPORTES'>ESPORTES</a>
+<span dir='ltr'>(143)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/EVENTOS'>EVENTOS</a>
+<span dir='ltr'>(5)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/FEIRA%20CENTRAL'>FEIRA CENTRAL</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/FEMINISMO'>FEMINISMO</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/FLAGRAS'>FLAGRAS</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/FOTOS%20ATUAIS'>FOTOS ATUAIS</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/FOTOS%20HIST%C3%93RICAS'>FOTOS HISTÓRICAS</a>
+<span dir='ltr'>(653)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/FRASES'>FRASES</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/GA%C3%9ACHO'>GAÚCHO</a>
+<span dir='ltr'>(8)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/GENTE%20DA%20GENTE'>GENTE DA GENTE</a>
+<span dir='ltr'>(65)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/HIST%C3%93RIA'>HISTÓRIA</a>
+<span dir='ltr'>(47)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/HIST%C3%93RIA%20DO%20BRASIL'>HISTÓRIA DO BRASIL</a>
+<span dir='ltr'>(12)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/IGREJAS'>IGREJAS</a>
+<span dir='ltr'>(12)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/ISEA'>ISEA</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/IVAN%20GOMES'>IVAN GOMES</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/JOBEDIS'>JOBEDIS</a>
+<span dir='ltr'>(19)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/JORNAIS'>JORNAIS</a>
+<span dir='ltr'>(12)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/JOSEMAR%20DO%20%C3%93'>JOSEMAR DO Ó</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/LIVROS'>LIVROS</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/LOCAIS'>LOCAIS</a>
+<span dir='ltr'>(175)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/M%C3%83O%20BRANCA'>MÃO BRANCA</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/MAPAS'>MAPAS</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/MICARANDE'>MICARANDE</a>
+<span dir='ltr'>(18)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/MISS'>MISS</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/MUSEUS'>MUSEUS</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/NILO%20TAVARES'>NILO TAVARES</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/NOTA'>NOTA</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/ONTEM%2FHOJE'>ONTEM/HOJE</a>
+<span dir='ltr'>(18)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/PERSONALIDADES'>PERSONALIDADES</a>
+<span dir='ltr'>(44)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/PODCAST'>PODCAST</a>
+<span dir='ltr'>(26)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/POLICIAL'>POLICIAL</a>
+<span dir='ltr'>(8)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/POL%C3%8DTICA'>POLÍTICA</a>
+<span dir='ltr'>(87)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/PONTO%20DE%20VISTA'>PONTO DE VISTA</a>
+<span dir='ltr'>(24)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/PRA%C3%87AS'>PRAÇAS</a>
+<span dir='ltr'>(5)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/PRE-HIST%C3%93RIA'>PRE-HISTÓRIA</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/PROPAGANDAS'>PROPAGANDAS</a>
+<span dir='ltr'>(55)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/QUEBRA-QUILOS'>QUEBRA-QUILOS</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/RADIO%20BORBOREMA'>RADIO BORBOREMA</a>
+<span dir='ltr'>(6)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/RECONSTRU%C3%87%C3%83O%203D'>RECONSTRUÇÃO 3D</a>
+<span dir='ltr'>(8)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/RECORTES'>RECORTES</a>
+<span dir='ltr'>(21)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/REGISTROS%20FAMILIARES'>REGISTROS FAMILIARES</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/RELIGI%C3%83O'>RELIGIÃO</a>
+<span dir='ltr'>(5)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/REMINISC%C3%8ANCIAS'>REMINISCÊNCIAS</a>
+<span dir='ltr'>(40)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/REPORTAGENS%20HIST%C3%93RICAS'>REPORTAGENS HISTÓRICAS</a>
+<span dir='ltr'>(126)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/REVISTAS'>REVISTAS</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/RONALDO%20CUNHA%20LIMA'>RONALDO CUNHA LIMA</a>
+<span dir='ltr'>(5)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/ROSIL'>ROSIL</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/RUA%20MACIEL%20PINHEIRO'>RUA MACIEL PINHEIRO</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/S%C3%83O%20JO%C3%83O'>SÃO JOÃO</a>
+<span dir='ltr'>(63)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/Semana%20Santa'>Semana Santa</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/S%C3%8DMBOLOS'>SÍMBOLOS</a>
+<span dir='ltr'>(3)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/SOCIAL'>SOCIAL</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/TEATRO%20MUNICIPAL'>TEATRO MUNICIPAL</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/TELINGRA'>TELINGRA</a>
+<span dir='ltr'>(1)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/TOP%20BLOG'>TOP BLOG</a>
+<span dir='ltr'>(4)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/TREZE%20FC'>TREZE FC</a>
+<span dir='ltr'>(27)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/TV%20DO%20PASSADO'>TV DO PASSADO</a>
+<span dir='ltr'>(72)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/UEPB'>UEPB</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/UTILIDADE%20P%C3%9ABLICA'>UTILIDADE PÚBLICA</a>
+<span dir='ltr'>(2)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/VIDEOCAST'>VIDEOCAST</a>
+<span dir='ltr'>(6)</span>
+</li>
+<li>
+<a dir='ltr' href='https://cgretalhos.blogspot.com/search/label/V%C3%8DDEOS%20HIST%C3%93RICOS'>VÍDEOS HISTÓRICOS</a>
+<span dir='ltr'>(79)</span>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div><div class='widget Followers' data-version='1' id='Followers1'>
+<h2 class='title'>Seguidores</h2>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<div><script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<div id="followers-iframe-container"></div>
+<script type="text/javascript">
+    window.followersIframe = null;
+    function followersIframeOpen(url) {
+      gapi.load("gapi.iframes", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          window.followersIframe = gapi.iframes.getContext().openChild({
+            url: url,
+            where: document.getElementById("followers-iframe-container"),
+            messageHandlersFilter: gapi.iframes.CROSS_ORIGIN_IFRAMES_FILTER,
+            messageHandlers: {
+              '_ready': function(obj) {
+                window.followersIframe.getIframeEl().height = obj.height;
+              },
+              'reset': function() {
+                window.followersIframe.close();
+                followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d2592931059274708515\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByM5OTk5OTkiByM5OWFhZGQqByMwMDAwMDAyByNhYWRkOTk6ByM5OTk5OTlCByM5OWFhZGRKByM3Nzc3NzdSByM5OWFhZGRaC3RyYW5zcGFyZW50\x26pageSize\x3d21\x26origin\x3dhttps://cgretalhos.blogspot.com/");
+              },
+              'open': function(url) {
+                window.followersIframe.close();
+                followersIframeOpen(url);
+              },
+              'blogger-ping': function() {
+              }
+            }
+          });
+        }
+      });
+    }
+    followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d2592931059274708515\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByM5OTk5OTkiByM5OWFhZGQqByMwMDAwMDAyByNhYWRkOTk6ByM5OTk5OTlCByM5OWFhZGRKByM3Nzc3NzdSByM5OWFhZGRaC3RyYW5zcGFyZW50\x26pageSize\x3d21\x26origin\x3dhttps://cgretalhos.blogspot.com/");
+  </script></div>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Postagens Anteriores</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2024/'>
+2024
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2024/02/'>
+fevereiro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2023/'>
+2023
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2023/11/'>
+novembro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2023/10/'>
+outubro
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2023/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2023/07/'>
+julho
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2023/03/'>
+março
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2022/'>
+2022
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2022/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2022/07/'>
+julho
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2022/03/'>
+março
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2022/02/'>
+fevereiro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2022/01/'>
+janeiro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2021/'>
+2021
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2021/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2021/05/'>
+maio
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2021/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2021/03/'>
+março
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2021/02/'>
+fevereiro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2021/01/'>
+janeiro
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2020/'>
+2020
+</a>
+<span class='post-count' dir='ltr'>(34)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2020/12/'>
+dezembro
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2020/11/'>
+novembro
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2020/10/'>
+outubro
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2020/09/'>
+setembro
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2020/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2020/07/'>
+julho
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2020/06/'>
+junho
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2020/05/'>
+maio
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2020/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2020/03/'>
+março
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2020/02/'>
+fevereiro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2020/01/'>
+janeiro
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2019/'>
+2019
+</a>
+<span class='post-count' dir='ltr'>(33)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2019/11/'>
+novembro
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2019/10/'>
+outubro
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2019/09/'>
+setembro
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2019/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2019/07/'>
+julho
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2019/06/'>
+junho
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2019/05/'>
+maio
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2019/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2019/03/'>
+março
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2019/01/'>
+janeiro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2018/'>
+2018
+</a>
+<span class='post-count' dir='ltr'>(48)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2018/11/'>
+novembro
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2018/10/'>
+outubro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2018/09/'>
+setembro
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2018/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2018/07/'>
+julho
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2018/06/'>
+junho
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2018/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2018/03/'>
+março
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2018/02/'>
+fevereiro
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2018/01/'>
+janeiro
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2017/'>
+2017
+</a>
+<span class='post-count' dir='ltr'>(102)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2017/12/'>
+dezembro
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2017/11/'>
+novembro
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2017/10/'>
+outubro
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2017/09/'>
+setembro
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2017/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2017/06/'>
+junho
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+<ul class='posts'>
+<li><a href='https://cgretalhos.blogspot.com/2017/06/memoria-do-sao-joao-campinense-fotos-de.html'>Memória do São João Campinense: Fotos de Desfile d...</a></li>
+<li><a href='https://cgretalhos.blogspot.com/2017/06/memorial-do-maior-sao-joao-do-mundo.html'>Memorial do Maior São João do Mundo</a></li>
+<li><a href='https://cgretalhos.blogspot.com/2017/06/memoria-empresarial-o-spazzio.html'>Memória Empresarial: O Spazzio</a></li>
+<li><a href='https://cgretalhos.blogspot.com/2017/06/foto-memoria-forrock-1988.html'>Foto Memória: Forrock (1988)</a></li>
+<li><a href='https://cgretalhos.blogspot.com/2017/06/25-anos-do-programa-legal-de-1992-rede.html'>25 ANOS DO PROGRAMA LEGAL DE 1992 (REDE GLOBO)</a></li>
+<li><a href='https://cgretalhos.blogspot.com/2017/06/festas-de-santo-antonio-em-campina.html'>Festas de Santo Antonio em Campina Grande (1914)</a></li>
+<li><a href='https://cgretalhos.blogspot.com/2010/06/cronograma-historico-dos-festejos.html'>Cronograma Histórico dos Festejos Juninos em Campi...</a></li>
+<li><a href='https://cgretalhos.blogspot.com/2017/06/o-caveirao-fabricado-em-campina-grande.html'>O &#39;Caveirão&#39; Fabricado em Campina Grande (1930)</a></li>
+<li><a href='https://cgretalhos.blogspot.com/2017/06/memoria-o-parque-do-povo.html'>Memória: O Parque do Povo</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2017/05/'>
+maio
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2017/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2017/03/'>
+março
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2017/02/'>
+fevereiro
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2017/01/'>
+janeiro
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2016/'>
+2016
+</a>
+<span class='post-count' dir='ltr'>(122)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2016/12/'>
+dezembro
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2016/11/'>
+novembro
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2016/10/'>
+outubro
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2016/09/'>
+setembro
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2016/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2016/07/'>
+julho
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2016/06/'>
+junho
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2016/05/'>
+maio
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2016/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2016/03/'>
+março
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2016/02/'>
+fevereiro
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2016/01/'>
+janeiro
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2015/'>
+2015
+</a>
+<span class='post-count' dir='ltr'>(199)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2015/12/'>
+dezembro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2015/11/'>
+novembro
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2015/10/'>
+outubro
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2015/09/'>
+setembro
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2015/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2015/07/'>
+julho
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2015/06/'>
+junho
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2015/05/'>
+maio
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2015/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2015/03/'>
+março
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2015/02/'>
+fevereiro
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2015/01/'>
+janeiro
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2014/'>
+2014
+</a>
+<span class='post-count' dir='ltr'>(125)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2014/12/'>
+dezembro
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2014/11/'>
+novembro
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2014/10/'>
+outubro
+</a>
+<span class='post-count' dir='ltr'>(27)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2014/09/'>
+setembro
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2014/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2014/07/'>
+julho
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2014/06/'>
+junho
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2014/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2014/03/'>
+março
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2014/02/'>
+fevereiro
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2014/01/'>
+janeiro
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2013/'>
+2013
+</a>
+<span class='post-count' dir='ltr'>(322)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2013/12/'>
+dezembro
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2013/11/'>
+novembro
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2013/10/'>
+outubro
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2013/09/'>
+setembro
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2013/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2013/07/'>
+julho
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2013/06/'>
+junho
+</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2013/05/'>
+maio
+</a>
+<span class='post-count' dir='ltr'>(33)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2013/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2013/03/'>
+março
+</a>
+<span class='post-count' dir='ltr'>(40)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2013/02/'>
+fevereiro
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2013/01/'>
+janeiro
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2012/'>
+2012
+</a>
+<span class='post-count' dir='ltr'>(440)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2012/12/'>
+dezembro
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2012/11/'>
+novembro
+</a>
+<span class='post-count' dir='ltr'>(31)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2012/10/'>
+outubro
+</a>
+<span class='post-count' dir='ltr'>(32)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2012/09/'>
+setembro
+</a>
+<span class='post-count' dir='ltr'>(40)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2012/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(43)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2012/07/'>
+julho
+</a>
+<span class='post-count' dir='ltr'>(52)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2012/06/'>
+junho
+</a>
+<span class='post-count' dir='ltr'>(51)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2012/05/'>
+maio
+</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2012/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2012/03/'>
+março
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2012/02/'>
+fevereiro
+</a>
+<span class='post-count' dir='ltr'>(38)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2012/01/'>
+janeiro
+</a>
+<span class='post-count' dir='ltr'>(33)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2011/'>
+2011
+</a>
+<span class='post-count' dir='ltr'>(309)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2011/12/'>
+dezembro
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2011/11/'>
+novembro
+</a>
+<span class='post-count' dir='ltr'>(33)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2011/10/'>
+outubro
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2011/09/'>
+setembro
+</a>
+<span class='post-count' dir='ltr'>(26)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2011/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2011/07/'>
+julho
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2011/06/'>
+junho
+</a>
+<span class='post-count' dir='ltr'>(25)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2011/05/'>
+maio
+</a>
+<span class='post-count' dir='ltr'>(30)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2011/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2011/03/'>
+março
+</a>
+<span class='post-count' dir='ltr'>(29)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2011/02/'>
+fevereiro
+</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2011/01/'>
+janeiro
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2010/'>
+2010
+</a>
+<span class='post-count' dir='ltr'>(340)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2010/12/'>
+dezembro
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2010/11/'>
+novembro
+</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2010/10/'>
+outubro
+</a>
+<span class='post-count' dir='ltr'>(37)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2010/09/'>
+setembro
+</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2010/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(41)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2010/07/'>
+julho
+</a>
+<span class='post-count' dir='ltr'>(35)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2010/06/'>
+junho
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2010/05/'>
+maio
+</a>
+<span class='post-count' dir='ltr'>(39)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2010/04/'>
+abril
+</a>
+<span class='post-count' dir='ltr'>(28)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2010/03/'>
+março
+</a>
+<span class='post-count' dir='ltr'>(23)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2010/02/'>
+fevereiro
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2010/01/'>
+janeiro
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2009/'>
+2009
+</a>
+<span class='post-count' dir='ltr'>(77)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2009/12/'>
+dezembro
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2009/11/'>
+novembro
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2009/10/'>
+outubro
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2009/09/'>
+setembro
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://cgretalhos.blogspot.com/2009/08/'>
+agosto
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML1'>
+<h2 class='title'>MURAL DE RECADOS</h2>
+<div class='widget-content'>
+<!-- BEGIN CBOX - www.cbox.ws - v001 -->
+<div id="cboxdiv" style="text-align: center; line-height: 0">
+<div><iframe src="http://www5.cbox.ws/box/?boxid=499913&amp;boxtag=n2rs0m&amp;sec=main" marginheight="2" marginwidth="2" allowtransparency="yes" name="cboxmain5-499913" style="border:#F6F3E0 1px solid;" id="cboxmain5-499913" frameborder="0" height="400" scrolling="auto" width="250"></iframe></div>
+<div><iframe src="http://www5.cbox.ws/box/?boxid=499913&amp;boxtag=n2rs0m&amp;sec=form" marginheight="2" marginwidth="2" allowtransparency="yes" name="cboxform5-499913" style="border:#F6F3E0 1px solid;border-top:0px" id="cboxform5-499913" frameborder="0" height="100" scrolling="no" width="250"></iframe></div>
+</div>
+<!-- END CBOX -->
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML4'>
+<div class='widget-content'>
+<script type="text/javascript" src="//jh.revolvermaps.com/r.js"></script><script type="text/javascript">rm_f1st('0','220','true','false','000000','79t3ubq18of','true','ff0000');</script><noscript><applet codebase="http://rh.revolvermaps.com/j" code="core.RE" width="220" height="220" archive="g.jar"><param name="cabbase" value="g.cab" /><param name="r" value="true" /><param name="n" value="false" /><param name="i" value="79t3ubq18of" /><param name="m" value="0" /><param name="s" value="220" /><param name="c" value="ff0000" /><param name="v" value="true" /><param name="b" value="000000" /><param name="rfc" value="true" /></applet></noscript>
+</div>
+<div class='clear'></div>
+</div><div class='widget Stats' data-version='1' id='Stats1'>
+<h2>Acessos Desde Agosto/2009</h2>
+<div class='widget-content'>
+<div id='Stats1_content' style='display: none;'>
+<script src='https://www.gstatic.com/charts/loader.js' type='text/javascript'></script>
+<span id='Stats1_sparklinespan' style='display:inline-block; width:75px; height:30px'></span>
+<span class='counter-wrapper graph-counter-wrapper' id='Stats1_totalCount'>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML5'>
+<div class='widget-content'>
+<script src="//widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 30000,
+  width: 250,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#042c69',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#141421',
+      color: '#ffffff',
+      links: '#4aed05'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: true,
+    behavior: 'all'
+  }
+}).render().setUser('BlogRHCG').start();
+</script>
+</div>
+<div class='clear'></div>
+</div><div class='widget Image' data-version='1' id='Image6'>
+<h2>Top Blog 2012 - 3º Colocado</h2>
+<div class='widget-content'>
+<img alt='Top Blog 2012 - 3º Colocado' height='239' id='Image6_img' src='//2.bp.blogspot.com/-shOWMPJs0g4/VE5MCn0vudI/AAAAAAAAE6k/0kRhn81DKkU/s1600/SeloTopBlog2012a.jpg' width='150'/>
+<br/>
+</div>
+<div class='clear'></div>
+</div><div class='widget Image' data-version='1' id='Image4'>
+<div class='widget-content'>
+<img alt='' height='160' id='Image4_img' src='//1.bp.blogspot.com/-L4N_IAkkhls/TgtlIUpuBRI/AAAAAAAABn4/BMrVtu85TWo/s250/TopBlogcultura.jpg' width='128'/>
+<br/>
+</div>
+<div class='clear'></div>
+</div><div class='widget BlogList' data-version='1' id='BlogList1'>
+<h2 class='title'>Sites Recomendados</h2>
+<div class='widget-content'>
+<div class='blog-list-container' id='BlogList1_container'>
+<ul id='BlogList1_blogs'>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tqosJcHAHQ6E91JUwRc7ZCSqLzq1TtH-Nlgi3wzcTl_ZxS0J1xldgAoTprSX30vxoZmG0s-SKyuYehTM-7sKn_b55xyn-PcKPtXebu420g=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://almacorsaria.blogspot.com/' target='_blank'>
+BLOG ALMA CORSÁRIA</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://almacorsaria.blogspot.com/2019/06/a-queda-da-odebrecht-e-nossa-economia.html' target='_blank'>
+A Queda da Odebrecht e a nossa Economia
+</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+
+
+
+O brasileiro precisa entender que a Odebrecht não é vilã... é uma refém do 
+sistema, implícito, que representa o sustentáculo político econômico 
+brasilei...
+</span>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uwfIJGLzO2LkGDhYI-lHQNvbnz2-e05h-FlPSl_6fMWs7bt16m0GQ1NCp0a8tLvHXbTb_SnAu0Qpzc_rqwoRZcIJ7aEaWLe036ZEO2=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://tataguassu.blogspot.com/' target='_blank'>
+Blog Tataguaçu</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://tataguassu.blogspot.com/2022/12/instituto-universal.html' target='_blank'>
+"INSTITUTO UNIVERSAL"
+</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+
+
+A Escola Professor José Miranda nasceu por volta de 1978 com o nome de 
+Instituto Universal Professor José Miranda, que na boca do povo era apenas 
+"O Inst...
+</span>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_uLBQRydVIOnACMfwrqcHm9i4C6dDDTD48eZfb4x7NgCYRL5qRSz8Bpj3nfBhVV_qG6MpuGLe09XpEVe6m68T2wXKvXjEERPNwCI1h7NVAz369f=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://historiadecuite.blogspot.com/' target='_blank'>
+História de Cuité</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://historiadecuite.blogspot.com/2010/07/olhos-dagua-e-cacimboes-no-municipio-em.html' target='_blank'>
+Olhos d&#8217;agua e cacimbões no município em 1936.
+</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+*Olhos d'Água*
+
+Ao todo são 33 encontrados no município.
+
+Olho D&#8217;água do Cuité, o mais importante pela suas antiguidades, deixando de 
+parte a abundancia daq...
+</span>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tLW3MttGpdKj9AQ50PPvue1jZ2Nq8edz3Fh1tJyT6rswKXif2LivRs2pD5841lrBrzAZQK2UOGWgsiyyqof0rge8xnUvMcQ7SBXEAMPyd77Q2Nnchg1kjN=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='https://historiaesperancense.blogspot.com/' target='_blank'>
+História Esperancense</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='https://historiaesperancense.blogspot.com/2024/04/cronologia-da-producao-jornalistica-de.html' target='_blank'>
+Cronologia da Produção Jornalística de Esperança-PB
+</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+
+
+
+ 
+
+Pequena lista dos jornais de Esperança:
+
+1. O Farol, de José Maria Passos Pimentel (s/d)
+
+2. A Seta (1928), do jornalista Tancredo de Carvalho
+
+3. O Co...
+</span>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_t2zeVNxjXRob8hUMu3_Q4P42N_E-HTLdS1WPTDGvMfq07HsV-RFJI_vzQm9aHC7IrN_Dq-bLByb3Eh9R86WsCA7eLEKEx2qCz6mMUFa0qkxO9IUumB8Ixar6JvgOzvig=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://museudoesportedecampinagrande.blogspot.com/' target='_blank'>
+Museu Virtual do Esporte Amador  de Campina Grande</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<a href='http://museudoesportedecampinagrande.blogspot.com/2014/02/boa-noite-caros-amigos-queremos-deixar.html' target='_blank'>
+Memória Viva do Museu
+</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+Boa noite caros amigos,
+
+Queremos deixar aqui neste dia de hoje, nossas sinceras condolências à tudo 
+o que vem acontecendo esses dias. Perdemos um grande ma...
+</span>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<img data-lateloadsrc='https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ucBGxbJRgcgmi_MePgTq6IcCgqiz8vv6PziJsc6ky8eL7ArpBvxjgWx5bMsTfW2pbd2ec2mQRoEsOaKn9YxArcE8C4VAT9fvMwGp3v6Q=s16-w16-h16' height='16' width='16'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://www.trezegalo.xpg.com.br/' target='_blank'>
+TrezeGalo: O Arquivo Histórico do TrezeFC</a>
+</div>
+<div class='item-content'>
+<span class='item-title'>
+<!--Can't find substitution for tag [item.itemTitle]-->
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+<!--Can't find substitution for tag [item.itemSnippet]-->
+</span>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div>
+</div></div>
+</div>
+<!-- spacer for skins that want sidebar and main to be the same height-->
+<div class='clear'>&#160;</div>
+</div>
+<!-- end content-wrapper -->
+<div id='footer-wrapper'>
+<div class='footer no-items section' id='footer'></div>
+</div>
+</div></div>
+<!-- end outer-wrapper -->
+<a href='http://blogblogs.com.br/api/claim/742801151/243021/190797' rel='me'> BlogBlogs.Com.Br </a>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2761861387-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY4qhdmZP-8wM2TWq3MDuCN9iy5Syg:1712613883684';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d2592931059274708515','//cgretalhos.blogspot.com/2017/06/','2592931059274708515');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '2592931059274708515', 'title': 'Retalhos Hist\xf3ricos de Campina Grande', 'url': 'https://cgretalhos.blogspot.com/2017/06/', 'canonicalUrl': 'http://cgretalhos.blogspot.com/2017/06/', 'homepageUrl': 'https://cgretalhos.blogspot.com/', 'searchUrl': 'https://cgretalhos.blogspot.com/search', 'canonicalHomepageUrl': 'http://cgretalhos.blogspot.com/', 'blogspotFaviconUrl': 'https://cgretalhos.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'pt-BR', 'localeUnderscoreDelimited': 'pt_br', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Retalhos Hist\xf3ricos de Campina Grande - Atom\x22 href\x3d\x22https://cgretalhos.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Retalhos Hist\xf3ricos de Campina Grande - RSS\x22 href\x3d\x22https://cgretalhos.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Retalhos Hist\xf3ricos de Campina Grande - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/2592931059274708515/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/12e2d1ccd57220be', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Gerar link', 'key': 'link', 'shareMessage': 'Gerar link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Compartilhar no Facebook', 'target': 'facebook'}, {'name': 'Postar no blog!', 'key': 'blogThis', 'shareMessage': 'Postar no blog!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Compartilhar no Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Compartilhar no Pinterest', 'target': 'pinterest'}, {'name': 'E-mail', 'key': 'email', 'shareMessage': 'E-mail', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27pt_BR\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Leia mais', 'pageType': 'archive', 'pageName': 'junho 2017', 'pageTitle': 'Retalhos Hist\xf3ricos de Campina Grande: junho 2017'}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Editar', 'linkCopiedToClipboard': 'Link copiado para a \xe1rea de transfer\xeancia.', 'ok': 'Ok', 'postLink': 'Link da postagem'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Personalizar', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Retalhos Hist\xf3ricos de Campina Grande', 'description': '', 'url': 'https://cgretalhos.blogspot.com/2017/06/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': false, 'isArchive': true, 'isLabelSearch': false, 'archive': {'year': 2017, 'month': 6, 'rangeMessage': 'Mostrando postagens de junho, 2017'}}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text1', 'crosscol', document.getElementById('Text1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogSearchView', new _WidgetInfo('BlogSearch1', 'main', document.getElementById('BlogSearch1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2576940669-lbx__pt_br.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/13464135-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image1', 'sidebar', document.getElementById('Image1'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar', document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image5', 'sidebar', document.getElementById('Image5'), {'resize': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image3', 'sidebar', document.getElementById('Image3'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML11', 'sidebar', document.getElementById('HTML11'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text3', 'sidebar', document.getElementById('Text3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML10', 'sidebar', document.getElementById('HTML10'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image2', 'sidebar', document.getElementById('Image2'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'sidebar', document.getElementById('PageList1'), {'title': '', 'links': [{'isCurrentPage': false, 'href': 'https://cgretalhos.blogspot.com/', 'title': '* IN\xcdCIO'}, {'isCurrentPage': false, 'href': 'https://cgretalhos.blogspot.com/p/quem-somos.html', 'id': '6089934339002965847', 'title': '* QUEM SOMOS'}, {'isCurrentPage': false, 'href': 'https://cgretalhos.blogspot.com/p/colaboradores-da-historia.html', 'id': '3751116157066155199', 'title': '* COLABORADORES DA HIST\xd3RIA'}, {'isCurrentPage': false, 'href': 'https://cgretalhos.blogspot.com/p/dicas-para-navegacao.html', 'id': '4066792496698346448', 'title': '* DICAS PARA NAVEGA\xc7\xc3O'}, {'isCurrentPage': false, 'href': 'https://cgretalhos.blogspot.com/p/artigos-dos-leitores.html', 'id': '6009290813571469307', 'title': '* ARTIGOS DOS LEITORES'}], 'mobile': false, 'showPlaceholder': true, 'hasCurrentPage': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_TextView', new _WidgetInfo('Text2', 'sidebar', document.getElementById('Text2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'sidebar', document.getElementById('HTML6'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML7', 'sidebar', document.getElementById('HTML7'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar', document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar', document.getElementById('Followers1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Carregando\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'sidebar', document.getElementById('HTML4'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_StatsView', new _WidgetInfo('Stats1', 'sidebar', document.getElementById('Stats1'), {'title': 'Acessos Desde Agosto/2009', 'showGraphicalCounter': true, 'showAnimatedCounter': true, 'showSparkline': true, 'statsUrl': '//cgretalhos.blogspot.com/b/stats?style\x3dWHITE_TRANSPARENT\x26timeRange\x3dALL_TIME\x26token\x3dAPq4FmCwQUczkUIWtIUoq5KOvgKiSqLWFAD3YTIXTFsEkPb0QnSjLvmvY3F-WdIjAKRhaDUY1yuNBfgNo9zKZ3VHO2o7N-zUsg'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'sidebar', document.getElementById('HTML5'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image6', 'sidebar', document.getElementById('Image6'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ImageView', new _WidgetInfo('Image4', 'sidebar', document.getElementById('Image4'), {'resize': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogListView', new _WidgetInfo('BlogList1', 'sidebar', document.getElementById('BlogList1'), {'numItemsToShow': 0, 'totalItems': 6}, 'displayModeFull'));
+</script>
+</body>
+</html>
