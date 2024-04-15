@@ -1,5 +1,4 @@
 import { Command } from 'commander'
-import * as cheerio from 'cheerio'
 import getPageContent from './requests/request-stream.js'
 
 const program = new Command()

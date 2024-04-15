@@ -24,7 +24,7 @@ async function getPosts(fileName) {
 }
 
 function mapPost($, post) {
-  const [_, publish_date] = $('.post-date', post)
+  const [, publish_date] = $('.post-date', post)
     .html()
     .match(/var timestamp = "(.*?)";/)
 
@@ -110,7 +110,9 @@ const main = async (fileName) => {
     console.log('Processing: ', fileName)
     generatePostStream({ fileName })
       .pipe(
-        createWriteStream(`files/json/${fileName.replace('https---', '')}.json`)
+        createWriteStream(
+          `files/json/${fileName.replace('https---', '')}.json`,
+        ),
       )
       .on('finish', () => console.log('Finished: ', fileName))
       .on('error', console.error)

@@ -1,4 +1,3 @@
-import http from 'https'
 import { createWriteStream } from 'fs'
 import axios from 'axios'
 

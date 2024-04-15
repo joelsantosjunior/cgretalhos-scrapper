@@ -6,6 +6,8 @@
   "type": "module",
   "scripts": {
     "collect": "node ./src/write-text-file.js --start 2024/01 --end 2024/02",
+    "format": "prettier --write \"src/**/*.{js,ts}\"",
+    "lint": "eslint \"src/**/*.{js,ts}\" --quiet",
     "parse": "node ./src/parse-to-json.js"
   },
   "keywords": [],
@@ -15,5 +17,10 @@
     "axios": "^1.6.8",
     "cheerio": "^1.0.0-rc.12",
     "commander": "^12.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "prettier": "^3.2.5",
+    "eslint-config-prettier": "^8.5.0"
   }
 }
