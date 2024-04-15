@@ -4,21 +4,20 @@ import axios from 'axios'
 
 /**
  * It gets the content of a page and writes it to a file
- * 
- * @param {string} url 
+ *
+ * @param {string} url
  * @returns {Promise<void>}
  */
 const getPageContent = async (url) => {
+  const res = await axios({
+    method: 'GET',
+    url,
+    responseType: 'stream',
+  })
 
-    const res = await axios({
-        method: "GET",
-        url,
-        responseType: "stream"
-    })
+  const fileName = url.replace(/[^\w\s]/g, '-')
 
-    const fileName = url.replace(/[^\w\s]/g, '-')
-
-    return res.data.pipe(createWriteStream(`${fileName}.txt`))
+  return res.data.pipe(createWriteStream(`${fileName}.txt`))
 }
 
 export default getPageContent
